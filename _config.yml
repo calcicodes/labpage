@@ -277,7 +277,7 @@ defaults:
   # _news
   - scope:
       path: ""
-      type: news
+      type: post
     values:
       layout: single
       author_profile: true
