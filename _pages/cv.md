@@ -220,35 +220,37 @@ _* denotes newly designed course material._
 - __Redesigned AI4ER MRes Core Courses__, 'Environmental Risk' and 'Environmental Data Analysis'.
 
 
-### 1st Year NatSci
+### Natural Sciences (NatSci)
+
+#### 1st Year
 
 <div class="cvtag">2020-</div>
 
-- *__Ocean Carbon Practical__ a practical on carbon in the ocean and its interaction with atmospheric pCO2 using an [interactive model](https://oscarbranson.github.io/interactprac/).
+- *__Earth Sciences__: Practical class on carbon in the ocean and its interaction with atmospheric pCO2 using an [interactive model](https://oscarbranson.github.io/interactprac/).
 
-### 2nd Year NatSci
+#### 2nd Year
 
 <div class="cvtag">2022-</div>
 
-- *__Ocean Carbon__ section of _Quantitative Environmental Sciences_ course.
+- *__Quantitative Environmental Sciences__: lectures on ocean carbon cycling and climate, and practicals building an ocean carbon model in Python [6 lectures, 4 practicals].
 
-### 3rd Year Earth
+#### 3rd Year
 
 <div class="cvtag">2019-</div>
 
-- *__Biominerals__ section of _Mineralogy_ course.
+- *__Earth Sciences__: section of _Mineralogy_ course focussing on Biominerals [6 lectures, 4 practicals].
 
-### 4th Year Earth
+#### 4th Year
 
 <div class="cvtag">2022-</div>
 
-- *__Ocean Acidification__ section of _Environmental Geochemistry_ course.
+- *__Earth Sciences__: section of _Environmental Geochemistry_ course on Ocean Acidification [4 lectures, 4 practicals].
 
 ### AI4ER MRes
 
 <div class="cvtag">2020-</div>
 
-- *__Ocean Carbon__ lectures and practical session on machine learning approaches to ocean-atmosphere CO2 transfer.
+- *__Environmental Risk__: Lectures and practical session on machine learning approaches to ocean-atmosphere CO<sub>2</sub> transfer.
 
 ### Field Teaching
 
