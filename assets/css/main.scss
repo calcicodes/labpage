@@ -1,0 +1,77 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Index Feature Row
+
+.feature__item a {
+    text-decoration: none;
+    color: #3d4144;
+}
+
+// Papers
+.papers p {
+    font-size: medium;
+    padding-left: 1em;
+    min-height: 64px;
+    padding-right: 70px;
+}
+
+.papers strong {
+	color: #0072CE;
+}
+.papers lab {
+	color: #BE4D00; 
+}
+.papers a {
+	text-decoration: none;
+    color: #3d4144;
+}
+
+.papers year {
+    color: #3d4144;
+    font-weight: bold;
+    font-size: large;
+}
+
+// Altmetric Badge Position
+.altmetric-embed {
+	float: right;
+}
+
+// CV Formatting
+
+.cv .cvtag {
+    font-weight: bold;
+    margin: 0;
+    width: 8em;
+    display: inline-block;
+    font-size: medium;
+    vertical-align: top;
+}
+
+.cv ul {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    width: 80%;
+    vertical-align: top;
+}
+
+.cv li {
+    list-style-type: none; /* Remove bullets */
+    margin: 0;
+    padding: 0;
+    padding-bottom: 0.5em;
+    font-size: medium;
+}
+
+.cv p {
+    font-size: medium;
+}

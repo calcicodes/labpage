@@ -1,0 +1,16 @@
+<!-- Used for including grids of entries in sub-sections of pages -->
+{% if include.sort_by %}
+  {% assign entries = entries | sort: include.sort_by %}
+{% endif %}
+
+{% if include.sort_order == 'reverse' %}
+  {% assign entries = entries | reverse %}
+{% endif %}
+
+<div class="entries-grid" style="display:inline-block; width:100%">
+{%- for post in include.entries -%}
+  {%- unless post.hidden -%}
+    {% include archive-single.html %}
+  {%- endunless -%}
+{%- endfor -%}
+</div>

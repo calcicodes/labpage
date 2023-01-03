@@ -1,0 +1,13 @@
+main:
+  - title: News
+    url: /news/
+  - title: Projects
+    url: /projects/
+  - title: People
+    url: /people/
+  - title: Papers
+    url: /papers/
+  - title: Software
+    url: /software/
+  - title: CV
+    url: /CV/
