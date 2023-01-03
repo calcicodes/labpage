@@ -7,7 +7,7 @@ current: false
 author: Lara Jurkovic
 author_profile: true
 header:
-  teaser: assets/images/bio-Lara-teaser.png
+  teaser: assets/images/people/bio-Lara-teaser.png
 excerpt: Research Associate investigating the role of vaterite in biomineralisation.
 ---
 

@@ -7,13 +7,13 @@ current: true
 author: Madison East
 author_profile: true
 header:
-  teaser: assets/images/bio-Madi-teaser.png
+  teaser: assets/images/people/bio-Madi-teaser.png
 excerpt: Coral calcification in past and future oceans.
 ---
 
 <figure style="width: 40%" class="align-right">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-Madi-coral.png" alt="Coral close-up"> -->
-  <img src="/assets/images/bio-Madi-coral.png" alt="Coral close-up">
+  <img src="/assets/images/people/bio-Madi-coral.png" alt="Coral close-up">
   <figcaption>Coral down the microscope</figcaption>
 </figure> 
 
@@ -25,6 +25,6 @@ On a typical day in the lab you will find me cutting up corals skeletons with ti
 
 <figure style="width: 100%" class="align-center">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-Madi-coral.png" alt="Coral close-up"> -->
-  <img src="/assets/images/bio-Madi-SEM.jpg" alt="Coral close-up">
+  <img src="/assets/images/people/bio-Madi-SEM.jpg" alt="Coral close-up">
   <figcaption>Looking at coral skeletons with a Scanning Electron Microscope (SEM).</figcaption>
 </figure> 

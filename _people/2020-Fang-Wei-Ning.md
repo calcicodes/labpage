@@ -7,7 +7,7 @@ current: true
 author_profile: true
 author: Wei Ning Fang
 header:
-  teaser: assets/images/bio-Winnie-teaser.png
+  teaser: assets/images/people/bio-Winnie-teaser.png
 excerpt: Foraminiferal proxies – what do they mean?
 ---
 

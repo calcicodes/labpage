@@ -4,7 +4,7 @@ Madison East:
   name: "Madison East"
   bio: "PhD Student studying coral calcification in past and future oceans."
   location: "Cambridge, UK"
-  avatar: "assets/images/bio-Madi-round.png"
+  avatar: "assets/images/people/bio-Madi-round.png"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
@@ -14,7 +14,7 @@ Wei Ning Fang:
   name: Wei Ning "Winnie" Fang
   bio: "PhD Student studying foraminiferal geochemistry and palaeoproxies."
   location: "Cambridge, UK"
-  avatar: "assets/images/bio-Winnie-round.png"
+  avatar: "assets/images/people/bio-Winnie-round.png"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
@@ -24,7 +24,7 @@ Lara Jurkovic:
   name: "Lara Jurkovic"
   bio: "Postdoc working on vaterite formation and geochemistry."
   location: "Cambridge, UK"
-  avatar: "assets/images/bio-Lara-round.png"
+  avatar: "assets/images/people/bio-Lara-round.png"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
@@ -34,7 +34,7 @@ Evie:
   name: Evie
   bio: "I am a cat."
   location: Cambridge, UK
-  avatar: assets/images/bio-Evie-round.png
+  avatar: assets/images/people/bio-Evie-round.png
 
 # Firstname Lastname:
 #   name: "Their Name"
