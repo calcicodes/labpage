@@ -8,7 +8,7 @@ author: Madison East
 author_profile: true
 header:
   teaser: assets/images/people/bio-Madi-teaser.png
-excerpt: Coral calcification in past and future oceans.
+excerpt: Coral calcification and geochemistry.
 ---
 
 <figure style="width: 40%" class="align-right">

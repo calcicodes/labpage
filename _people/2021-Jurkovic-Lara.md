@@ -8,7 +8,7 @@ author: Lara Jurkovic
 author_profile: true
 header:
   teaser: assets/images/people/bio-Lara-teaser.png
-excerpt: Research Associate investigating the role of vaterite in biomineralisation.
+excerpt: PostDoc investigating the geochmistry of vaterite.
 ---
 
 **Lara worked with us as a postdoc from 2021-22. She is now a [Junior Scientist at the Ruđer Bošković Institute](https://www.irb.hr/eng/Divisions/Center-for-Marine-Research/Laboratory-for-Marine-Nanotechnology-and-Biotechnology/Employees/Lara-Jurkovic).**
