@@ -1,7 +1,9 @@
 ---
 layout: single
 title:  "CaCO<sub>3</sub> Precipitation"
-categories: Projects
+excerpt: The formation and geochemistry of calcium carbonate minerals.
+categories: project
 header:
-  teaser: assets/images/pj-culturing-teaser.png
+  teaser: assets/images/precip-teaser.png
 ---
+
