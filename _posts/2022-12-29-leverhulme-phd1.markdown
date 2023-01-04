@@ -5,6 +5,8 @@ excerpt: "Outside the comfort zone: physiological responses of marine calcifiers
 categories: job
 toc: true
 toc_sticky: true
+header:
+  teaser: /assets/images/posts/phd1-teaser.png
 ---
 
 _**Outside the comfort zone: physiological responses of marine calcifiers to extreme environmental conditions.**_
@@ -44,7 +46,7 @@ This PhD student will work closely alongside a postdoctoral researcher to grow c
 
 <figure style="width: 100%" class="align-center">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-Madi-coral.png" alt="Coral close-up"> -->
-  <img src="/assets/images/post-culturing.png" alt="Foraminifera and coral culturing">
+  <img src="/assets/images/posts/phd1-culturing.png" alt="Foraminifera and coral culturing">
   <figcaption>Capturing foraminifera in the field (left) and growing corals in the lab (right).</figcaption>
 </figure> 
 

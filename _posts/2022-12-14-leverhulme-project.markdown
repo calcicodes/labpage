@@ -1,10 +1,12 @@
 ---
 layout: single
-title:  "Leverhulme Trust Research Leadership Award"
+title:  "Research Leadership Award"
 excerpt: "Building Shells: Towards a Mechanistic Understanding of Biomineralisation"
 categories: grant
 toc: true
 toc_sticky: true
+header:
+  teaser: /assets/images/posts/leverhulme-teaser.png
 ---
 
 I'm excited to announce the award of a [Leverhulme Trust Research Leadership Award](https://www.leverhulme.ac.uk/research-leadership-awards) for my project _{{ page.excerpt }}_.
@@ -26,7 +28,7 @@ A complete understanding of biomineralisation mechanisms has remained elusive fo
 
 <figure style="width: 100%" class="align-center">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-Madi-coral.png" alt="Coral close-up"> -->
-  <img src="/assets/images/news-leverhulme-model.png" alt="A schematic of our modelling approach.">
+  <img src="/assets/images/posts/leverhulme-model.png" alt="A schematic of our modelling approach.">
   <figcaption> <strong>Figure 1: A schematic of biomineralisation and our modelling approach.</strong> Calcifying organisms living in seawater (SW) produce calcium carbonate (CC) from the ‘calcifying fluid’ (CF), which is isolated from seawater by cellular material (CM). The formation of the biomineral is controlled by the intrinsic processes (shaded in grey) of biological ion transport (L, D, T) which determine the composition of the CF relative to seawater, and the rate (Prate) and mechanism (Pmech) of mineral formation that determine the composition of calcium carbonate produced from the CF. We can observe extrinsic variables such as seawater composition and temperature, and measure organism physiology and CC composition, but the intrinsic mechanisms of biomineralisation that link these observations remain elusive. I propose to create a quantitative mechanistic model that will parameterise the intrinsic biological and crystal growth processes that determine CF and CC composition, and determine the relative importance of these processes based on the response of CC composition, organism physiology and gene expression to carefully controlled extrinsic variables.</figcaption>
 </figure>
 
@@ -39,3 +41,8 @@ The project will involve a team of three postdoctoral research associates and th
 - **Grow** corals, foraminifera and coccolithophores—three key groups of marine calcifiers—under conditions designed to examine the pathways of ion transport and the processes of crystal growth in biomineralisation, while monitoring key physiological parameters.
 - **Measure** the concentration and isotope ratios of a broad suite of trace elements incorporated into biominerals produced under these controlled conditions, which can be used as tracers of the intrinsic processes of biomineralisation (Fig. 1).
 - **Model** the mechanisms of biomineralisation, using biological and geochemical data produced by this study, integrated with all relevant data in the literature. We aim to create an over-determined, and thus testable, Bayesian mechanistic model of biomineralisation.
+
+## What's next?
+
+I'll be looking for one PhD student and on PostDoc to start each year for the next three years. Watch this space for announcements, and please [get in touch!](mailto:{{ site.email }})
+if you're interested!
