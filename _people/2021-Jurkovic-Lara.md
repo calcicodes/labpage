@@ -19,12 +19,12 @@ Specifically, my work examines the geochemical discrepancies between synthetic p
 
 <figure style="width: 45%" class="align-left">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-Madi-coral.png" alt="Coral close-up"> -->
-  <img src="/assets/images/bio-Lara-crystal0.jpg" alt="SEM image showing the morphology of calcium carbonate polymorphs (vaterite, aragonite and calcite).">
+  <img src="/assets/images/people/bio-Lara-crystal0.jpg" alt="SEM image showing the morphology of calcium carbonate polymorphs (vaterite, aragonite and calcite).">
   <figcaption>Scanning Electron Microscope (SEM) image showing the morphology of the calcium carbonate polymorphs (vaterite, aragonite and calcite).</figcaption>
 </figure> 
 
 <figure style="width: 45%" class="align-right">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-Madi-coral.png" alt="Coral close-up"> -->
-  <img src="/assets/images/bio-Lara-crystal1.jpg" alt="SEM image showing the radiant polycrystalline structure of vaterite.">
+  <img src="/assets/images/people/bio-Lara-crystal1.jpg" alt="SEM image showing the radiant polycrystalline structure of vaterite.">
   <figcaption>The radiant polycrystalline structure of vaterite.</figcaption>
 </figure> 
