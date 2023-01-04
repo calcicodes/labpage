@@ -12,7 +12,9 @@
                 <img src="{{ person.avatar | relative_url }}"
                      alt="{% if f.excerpt %}{{ f.excerpt }}{% endif %}">
             </div>
-            {{person.title}}
+            <div class="people-row-name">
+                {{person.title}}
+            </div>
         </div>
     </a>
     {% endfor %}
