@@ -75,3 +75,22 @@ search: false
 .cv p {
     font-size: medium;
 }
+
+// People Row
+.people-row {
+    margin-bottom: 1em;
+    width: 100%;
+}
+
+.people-row-entry {
+    width: 100%;
+    margin-bottom: 0.5em;
+}
+
+.people-row-badge {
+    display: inline-block;
+}
+.people-row-badge img {
+    width: 4em;
+    border-radius: 50%;
+}
