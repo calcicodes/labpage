@@ -4,6 +4,7 @@ title:  "Geochemical Modelling"
 excerpt: Using the composition of carbonates to work out how they formed.
 categories: geochem
 people_category: geochem
+author_profile: true
 header:
   image: assets/images/projects/geochem-splash.png
   teaser: assets/images/projects/geochem-teaser.png

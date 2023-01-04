@@ -4,6 +4,7 @@ title:  "CaCO<sub>3</sub> Precipitation"
 excerpt: The formation and geochemistry of calcium carbonate minerals.
 categories: precip
 people_category: precip
+author_profile: true
 header:
   image: assets/images/projects/precip-splash.png
   teaser: assets/images/projects/precip-teaser.png
