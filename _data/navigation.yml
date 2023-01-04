@@ -5,9 +5,9 @@ main:
     # url: /projects/
   - title: People
     url: /people/
-  - title: Papers
-    url: /papers/
   - title: Software
     url: /software/
+  - title: Papers
+    url: /papers/
   - title: CV
     url: /CV/
