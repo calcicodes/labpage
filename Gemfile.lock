@@ -94,6 +94,7 @@ DEPENDENCIES
   ffi
   jekyll (~> 4.3.0)
   minimal-mistakes-jekyll
+  sass-embedded (~> 1.57.1)
   webrick (~> 1.7)
 
 BUNDLED WITH

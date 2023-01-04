@@ -35,3 +35,4 @@ gem "minimal-mistakes-jekyll"
 # missing gem
 gem "webrick", "~> 1.7"
 gem "ffi"
+gem "sass-embedded", "~> 1.57.1"
