@@ -2,7 +2,8 @@
 layout: single
 title:  Wei Ning "Winnie" Fang (方薇甯)
 date:   2020-10-01
-categories: PhD Student
+categories: PhD student geochem biomin
+avatar: assets/images/people/bio-Winnie-round.png
 current: true
 author_profile: true
 author: Wei Ning Fang

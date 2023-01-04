@@ -2,7 +2,8 @@
 layout: single
 title:  "Lara Jurkovic"
 date:   2020-10-01
-categories: PostDoc Alumni
+categories: PostDoc Alumni precip geochem
+avatar: assets/images/people/bio-Lara-round.png
 current: false
 author: Lara Jurkovic
 author_profile: true
