@@ -77,13 +77,13 @@ search: false
 }
 
 // People Row
-.people-row {
-    margin-bottom: 1em;
-    width: 100%;
+.people-row a {
+    text-decoration: none;
+    color: #3d4144;
 }
 
 .people-row-entry {
-    width: 100%;
+    // width: 100%;
     margin-bottom: 0.5em;
 }
 
@@ -91,6 +91,12 @@ search: false
     display: inline-block;
 }
 .people-row-badge img {
+    text-decoration: none;
     width: 4em;
     border-radius: 50%;
+}
+
+.people-row-name {
+    display: inline-block;
+    margin-left: 1em;
 }
