@@ -86,6 +86,9 @@ General instructions for applying can be found [here](https://www.postgraduate.s
 3. This will take you to the course description page, where you should click the 'Apply Now' button.
 4. Choose a start date of 01-Oct-2023, and select 'Full-Time' study.
 5. Click 'Apply for this course', and complete the application form.
-6. Please [contact me](mailto:ob266@cam.ac.uk) if you have any questions about the application process.
+6. In the 'Funding Your Study' section:
+  1. **UK students** select 'No - I do not wish to apply for funding', select 'Other' and give the reason 'PhD project is funded by a Leverhulme Trust grant to Oscar Branson (supervisor)'
+  2. **International students** select 'Yes - I wish to apply for funding', then choose all funding sources that you are eligible for. Note in the application text that the home fees and subsistence will be covered by a Leverhulme Trust grant to Oscar Branson (supervisor), and you are seeking the difference between international fees and home fees.
+7. Please [contact me](mailto:ob266@cam.ac.uk) if you have any questions about the application process.
 
 The deadline for applications is **midnight (UTC) on 31st January 2023**.
