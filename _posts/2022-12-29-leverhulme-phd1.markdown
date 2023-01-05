@@ -13,7 +13,7 @@ _**Outside the comfort zone: physiological responses of marine calcifiers to ext
 
 How does the physiology of marine calcifying organisms (corals, foraminifera and coccolithophores) change when exposed to extreme conditions in past, present and future oceans? What can these responses tell us about the mechanisms involved in producing their biomineral shells?
 
-**Application Deadline:** Midnight (UTC) 31st January 2023.
+**Application Deadline:** Midnight (UTC) 31st January 2023. See [below](#applications) for more details.
 {: .notice--warning}
 
 ## Project Context
@@ -87,8 +87,10 @@ General instructions for applying can be found [here](https://www.postgraduate.s
 4. Choose a start date of 01-Oct-2023, and select 'Full-Time' study.
 5. Click 'Apply for this course', and complete the application form.
 6. In the 'Funding Your Study' section:
-  1. **UK students** select 'No - I do not wish to apply for funding', select 'Other' and give the reason 'PhD project is funded by a Leverhulme Trust grant to Oscar Branson (supervisor)'
-  2. **International students** select 'Yes - I wish to apply for funding', then choose all funding sources that you are eligible for. Note in the application text that the home fees and subsistence will be covered by a Leverhulme Trust grant to Oscar Branson (supervisor), and you are seeking the difference between international fees and home fees.
+
+    - **UK students:** select 'No - I do not wish to apply for funding', select 'Other' and give the reason 'PhD project is funded by a Leverhulme Trust grant to Oscar Branson (supervisor)'
+    - **International students:** select 'Yes - I wish to apply for funding', then choose all funding sources that you are eligible for. Note in the application text that the home fees and subsistence will be covered by a Leverhulme Trust grant to Oscar Branson (supervisor), and you are seeking the difference between international fees and home fees.d
+
 7. Please [contact me](mailto:ob266@cam.ac.uk) if you have any questions about the application process.
 
 The deadline for applications is **midnight (UTC) on 31st January 2023**.
