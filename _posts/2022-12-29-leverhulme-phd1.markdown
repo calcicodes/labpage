@@ -77,5 +77,15 @@ An **ideal applicant** will have a strong background in biological or natural sc
 - Training relevant to the specifics of this project (organism physiology and measurement, transcriptomics).
 - Practical laboratory experience, ideally with marine organisms.
 
-Please send applications by email to [Oscar Branson](mailto:ob266@cam.ac.uk) including a CV, a cover letter, and the names and contact details of two referees.
-The deadline for applications is **midnight (UTC) 31st January 2023**.
+Please [get in touch](mailto:ob266@cam.ac.uk) to discuss the project in more detail, then submit an application via the [University of Cambridge Graduate Application Portal](https://apply.postgraduate.study.cam.ac.uk/applicant).
+
+General instructions for applying can be found [here](https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply), but a few specifics for applying to this project are:
+
+1. After logging in to the application portal, open the Course Directory.
+2. Type 'Earth Sciences' in the search box, and select the 'Earth Sciences PhD' course.
+3. This will take you to the course description page, where you should click the 'Apply Now' button.
+4. Choose a start date of 01-Oct-2023, and select 'Full-Time' study.
+5. Click 'Apply for this course', and complete the application form.
+6. Please [contact me](mailto:ob266@cam.ac.uk) if you have any questions about the application process.
+
+The deadline for applications is **midnight (UTC) on 31st January 2023**.
