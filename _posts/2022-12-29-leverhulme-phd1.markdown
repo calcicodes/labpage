@@ -13,7 +13,7 @@ _**Outside the comfort zone: physiological responses of marine calcifiers to ext
 
 How does the physiology of marine calcifying organisms (corals, foraminifera and coccolithophores) change when exposed to extreme conditions in past, present and future oceans? What can these responses tell us about the mechanisms involved in producing their biomineral shells?
 
-**Application Deadline:** Midnight 31st January 2023.
+**Application Deadline:** Midnight (UTC) 31st January 2023.
 {: .notice--warning}
 
 ## Project Context
@@ -78,4 +78,4 @@ An **ideal applicant** will have a strong background in biological or natural sc
 - Practical laboratory experience, ideally with marine organisms.
 
 Please send applications by email to [Oscar Branson](mailto:ob266@cam.ac.uk) including a CV, a cover letter, and the names and contact details of two referees.
-The deadline for applications is **midnight 31st January 2023**.
+The deadline for applications is **midnight (UTC) 31st January 2023**.
