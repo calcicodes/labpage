@@ -79,6 +79,9 @@ An **ideal applicant** will have a strong background in biological or natural sc
 
 Please [get in touch](mailto:ob266@cam.ac.uk) to discuss the project in more detail, then submit an application via the [University of Cambridge Graduate Application Portal](https://apply.postgraduate.study.cam.ac.uk/applicant).
 
+**International Students** are eligible and encouraged to apply, but please be aware that the Leverhulme funding will only cover subsistence and UK tuition fees - we would need to find additional funding to cover the international tuition fees. However, the [Cambridge Trust](https://www.cambridgetrust.org/scholarships/) offer multiple possible sources of additional funding. Keep reading for more details - please don't let this put you off!
+{: .notice--warning}
+
 General instructions for applying can be found [here](https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply), but a few specifics for applying to this project are:
 
 1. After logging in to the application portal, open the Course Directory.
@@ -89,7 +92,7 @@ General instructions for applying can be found [here](https://www.postgraduate.s
 6. In the 'Funding Your Study' section:
 
     - **UK students:** select 'No - I do not wish to apply for funding', select 'Other' and give the reason 'PhD project is funded by a Leverhulme Trust grant to Oscar Branson (supervisor)'
-    - **International students:** select 'Yes - I wish to apply for funding', then choose all funding sources that you are eligible for. Note in the application text that the home fees and subsistence will be covered by a Leverhulme Trust grant to Oscar Branson (supervisor), and you are seeking the difference between international fees and home fees.d
+    - **International students:** select 'Yes - I wish to apply for funding', then choose all funding sources that you are eligible for (take a look at the [Cambridge Trust](https://www.cambridgetrust.org/scholarships/) list). Note in the application text that the home fees and subsistence will be covered by a Leverhulme Trust grant to Oscar Branson (supervisor), and you are seeking the difference between international fees and home fees.
 
 7. Please [contact me](mailto:ob266@cam.ac.uk) if you have any questions about the application process.
 
