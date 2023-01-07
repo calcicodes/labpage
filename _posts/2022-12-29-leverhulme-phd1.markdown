@@ -77,7 +77,7 @@ An **ideal applicant** will have a strong background in biological or natural sc
 - Training relevant to the specifics of this project (organism physiology and measurement, transcriptomics).
 - Practical laboratory experience, ideally with marine organisms.
 
-Please [get in touch](mailto:ob266@cam.ac.uk) to discuss the project in more detail, then submit an application via the [University of Cambridge Graduate Application Portal](https://apply.postgraduate.study.cam.ac.uk/applicant).
+Please [get in touch](mailto:ob266@cam.ac.uk) to discuss the project in more detail, then submit an application via the [University of Cambridge Graduate Application Portal](https://apply.postgraduate.study.cam.ac.uk).
 
 **International Students** are eligible and encouraged to apply, but please be aware that the Leverhulme funding will only cover subsistence and UK tuition fees - we would need to find additional funding to cover the international tuition fees. However, the [Cambridge Trust](https://www.cambridgetrust.org/scholarships/) offer multiple possible sources of additional funding. Keep reading for more details - please don't let this put you off!
 {: .notice--warning}
@@ -94,6 +94,7 @@ General instructions for applying can be found [here](https://www.postgraduate.s
     - **UK students:** select 'No - I do not wish to apply for funding', select 'Other' and give the reason 'PhD project is funded by a Leverhulme Trust grant to Oscar Branson (supervisor)'
     - **International students:** select 'Yes - I wish to apply for funding', then choose all funding sources that you are eligible for (take a look at the [Cambridge Trust](https://www.cambridgetrust.org/scholarships/) list). Note in the application text that the home fees and subsistence will be covered by a Leverhulme Trust grant to Oscar Branson (supervisor), and you are seeking the difference between international fees and home fees.
 
-7. Please [contact me](mailto:ob266@cam.ac.uk) if you have any questions about the application process.
+7. In the 'Research' section select 'Yes' in reply to 'Do you have any research information to add?', then give the title of this project ('Outside the comfort zone: physiological responses of marine calcifiers to extreme environmental conditions.') and my name ('Oscar Branson') as the supervisor. You do not need to put anything in the 'summary of proposed research' box, but please do list any experience you have that's relevant to the project in the 'Research Experience' box.
+8. Please [contact me](mailto:ob266@cam.ac.uk) if you have any questions about the application process.
 
 The deadline for applications is **midnight (UTC) on 31st January 2023**.
