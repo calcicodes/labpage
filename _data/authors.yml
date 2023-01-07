@@ -28,13 +28,13 @@ Lara Jurkovic:
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
-    url: "mailto:lj397@cam.ac.uk"
+    url: "mailto:Lara.Jurkovic@irb.hr"
 
-Evie:
-  name: Evie
-  bio: "I am a cat."
-  location: Cambridge, UK
-  avatar: assets/images/people/bio-Evie-round.png
+# Evie:
+#   name: Evie
+#   bio: "I am a cat."
+#   location: Cambridge, UK
+#   avatar: assets/images/people/bio-Evie-round.png
 
 # Firstname Lastname:
 #   name: "Their Name"
