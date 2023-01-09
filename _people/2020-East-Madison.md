@@ -12,8 +12,6 @@ header:
 excerpt: Coral calcification and geochemistry.
 ---
 
-Testing!
-
 <figure style="width: 40%" class="align-right">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-Madi-coral.png" alt="Coral close-up"> -->
   <img src="/assets/images/people/bio-Madi-coral.png" alt="Coral close-up">
