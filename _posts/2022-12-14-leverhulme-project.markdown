@@ -17,7 +17,7 @@ We aim to create a mechanistic model of biomineralisation that we can use to bot
 This project will involve a cross-disciplinary team of three PostDocs and three PhD students over the next five years (2023-2028).
 We'll be growing calcifiers and tackling a diverse range of physiological (_respirometry, microsensors, confocal microscopy, transcriptomics_), geochemical (_trace elements, stable isotopes, laser ablation_) and computational (_mechanistic modelling, bayesian optimisation, Markov-chain Monte Carlo_) puzzles.
 
-**Does this sound exciting to you?** If you're interested in joining the team, please [get in touch!](mailto:{{ site.email }})
+**Does this sound exciting to you?** If you're interested in joining the team, please [get in touch!](mailto:{{ site.email }}), and check out the currently advertised [PhD studentship]({% post_url 2022-12-29-leverhulme-phd1 %}) and [PostDoc position]({% post_url 2023-01-17-leverhulme-PDRA1 %}).
 {: .notice--info}
 
 ## Background
@@ -44,5 +44,9 @@ The project will involve a team of three postdoctoral research associates and th
 
 ## What's next?
 
-I'll be looking for one PhD student and on PostDoc to start each year for the next three years. Watch this space for announcements, and please [get in touch!](mailto:{{ site.email }})
-if you're interested!
+I'll be looking for one PhD student and on PostDoc to start each year for the next three years. Watch this space for announcements, and please [get in touch!](mailto:{{ site.email }}) if you're interested!
+
+### Current opportunities
+
+- [PhD studentship]({% post_url 2022-12-29-leverhulme-phd1 %}) (deadline 27th January 2023)
+- [PostDoc position]({% post_url 2023-01-17-leverhulme-PDRA1 %}) (deadline 1st April January 2023)
