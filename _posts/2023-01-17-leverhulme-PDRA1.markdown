@@ -6,7 +6,7 @@ categories: job
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/posts/phd1-teaser.png
+  teaser: /assets/images/posts/leverhulme-pdra1-teaser.png
 ---
 
 I am seeking a postdoctoral researcher to join the multidisciplinary project “[Building Shells: Towards a Mechanistic Understanding of Biomineralisation]({% post_url 2022-12-14-leverhulme-project %})” funded by the Leverhulme Trust.
