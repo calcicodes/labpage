@@ -13,8 +13,11 @@ _**Outside the comfort zone: physiological responses of marine calcifiers to ext
 
 How does the physiology of marine calcifying organisms (corals, foraminifera and coccolithophores) change when exposed to extreme conditions in past, present and future oceans? What can these responses tell us about the mechanisms involved in producing their biomineral shells?
 
-**Application Deadline:** Midnight (UTC) 27<sup>th</sup> January 2023. See [below](#applications) for more details.
+**Applications for this studentship are now closed.**
 {: .notice--warning}
+
+<!-- **Application Deadline:** Midnight (UTC) 27<sup>th</sup> January 2023. See [below](#applications) for more details.
+{: .notice--warning} -->
 
 ## Project Context
 
@@ -70,7 +73,7 @@ The student will assess the impact of these conditions on the organisms by measu
 - Data analysis and interpretation.
 - Scientific presentation and writing.
 
-## Applications
+<!-- ## Applications
 
 An **ideal applicant** will have a strong background in biological or natural sciences, and some or all of:
 
@@ -90,4 +93,4 @@ General instructions for applying can be found [here](https://www.postgraduate.s
 7. In the 'Research' section select 'Yes' in reply to 'Do you have any research information to add?', then give the title of this project ('Outside the comfort zone: physiological responses of marine calcifiers to extreme environmental conditions.') and my name ('Oscar Branson') as the supervisor. You do not need to put anything in the 'summary of proposed research' box, but please do list any experience you have that's relevant to the project in the 'Research Experience' box.
 8. Please [contact me](mailto:ob266@cam.ac.uk) if you have any questions about the application process.
 
-The deadline for applications is **midnight (UTC) on 27<sup>th</sup> January 2023**.
+The deadline for applications is **midnight (UTC) on 27<sup>th</sup> January 2023**. -->
