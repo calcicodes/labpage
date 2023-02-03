@@ -35,10 +35,12 @@ We are seeking a candidate with PhD-level experience in one or more of:
 
 The research will involve lab- and field-based experiments, and use measurement equipment across the University (notably the Cambridge Advanced Imaging Centre and the Wellcome-MRC Institute of Metabolic Science).
 All necessary training will be provided, and the candidate will be mentored and supported in developing their career and research interests.
-The logistical constraints of the research will require the successful candidate to base themselves in Cambridge.
+The logistical constraints of the research will require the successful candidate to be based in Cambridge.
 
-The successful candidate would ideally be available to start on 1st July 2023, and the post will end on 30th June 2026 (3 years).
+The successful candidate would available to start on or after the 1st July 2023, and the post will end 3 years after the start date.
 
-Please [get in touch](mailto:ob266@cam.ac.uk) to discuss the project in more detail, then submit an application via the [University of Cambridge Application Portal](https://www.jobs.cam.ac.uk/)
+Please [get in touch](mailto:ob266@cam.ac.uk) to discuss the project in more detail.
+Applications should be made via the University Jobs portal, where the position will be posted soon.
+<!-- , then submit an application via the [University of Cambridge Application Portal](https://www.jobs.cam.ac.uk/) -->
 
 The deadline for applications is **midnight (UTC) on 1<sup>st</sup> April 2023**.
