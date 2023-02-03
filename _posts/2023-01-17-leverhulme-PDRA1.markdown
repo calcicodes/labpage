@@ -43,4 +43,4 @@ Please [get in touch](mailto:ob266@cam.ac.uk) to discuss the project in more det
 Applications should be made via the University Jobs portal, where the position will be posted soon.
 <!-- , then submit an application via the [University of Cambridge Application Portal](https://www.jobs.cam.ac.uk/) -->
 
-The deadline for applications is **midnight (UTC) on 8<sup>th</sup> April 2023**.
+The deadline for applications is **midnight (UTC) on 8<sup>th</sup> April 2023**. We anticipate that interviews will be held in the week commencing 24<sup>th</sup> April 2023.
