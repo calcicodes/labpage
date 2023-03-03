@@ -31,7 +31,7 @@ We are seeking a candidate with PhD-level experience in one or more of:
 
 1. Culturing marine organisms;
 2. Measuring the rates of respiration, photosynthesis and/or calcification of marine organisms at a fine scale;
-3. Measuring and interpreting the transcriptome of marine organisms.
+3. Measuring and interpreting the transcriptome or proteome of marine organisms.
 
 The research will involve lab- and field-based experiments, and use measurement equipment across the University (notably the Cambridge Advanced Imaging Centre and the Wellcome-MRC Institute of Metabolic Science).
 All necessary training will be provided, and the candidate will be mentored and supported in developing their career and research interests.
@@ -40,7 +40,7 @@ The logistical constraints of the research will require the successful candidate
 The successful candidate would available to start on or after the 1st July 2023, and the post will end 3 years after the start date.
 
 Please [get in touch](mailto:ob266@cam.ac.uk) to discuss the project in more detail.
-Applications should be made via the University Jobs portal, where the position will be posted soon.
-<!-- , then submit an application via the [University of Cambridge Application Portal](https://www.jobs.cam.ac.uk/) -->
+
+[Apply Here](https://www.jobs.cam.ac.uk/job/39499/){: .btn .btn--info}
 
 The deadline for applications is **midnight (UTC) on 8<sup>th</sup> April 2023**. We anticipate that interviews will be held in the week commencing 24<sup>th</sup> April 2023.
