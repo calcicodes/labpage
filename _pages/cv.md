@@ -83,9 +83,9 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 - __ANU Research Fellowship__
 
-<div class="cvtag">2011-17</div>
+<div class="cvtag">2011-</div>
 
-- __Synchrotron Proposals__ 11 out of 13 proposals funded
+- __Synchrotron Proposals__ 12 out of 14 proposals funded
 
 <div class="cvtag">2010</div>
 
