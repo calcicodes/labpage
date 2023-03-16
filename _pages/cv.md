@@ -65,6 +65,10 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ## Funding
 
+<div class="cvtag">2023</div>
+
+- __Royal Society International Exchange Grant__ [£11k] _Culture experiments to transform our understanding of foraminiferal palaeoclimate proxies_
+
 <div class="cvtag">2022</div>
 
 - __Leverhulme Trust Research Leadership Award__
