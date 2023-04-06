@@ -66,7 +66,7 @@ for doi in dois:
         infos[key] = data
 
     except urllib.error.HTTPError:
-        print(f'Failed doi:{doi}')
+        print(f'Failed doi:{doi} (not found in altmetric database)')
         
 # # save images
 # if not os.path.exists('./imgs'):
