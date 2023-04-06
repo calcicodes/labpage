@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "A Community Coral Reef"
-excerpt: ""
+excerpt: "A collaboration with the Sedgwick Museum for the Cambridge Festival"
 categories: outreach
 author: Madison East
 toc: false
