@@ -9,6 +9,9 @@ Madison East:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:mste2@cam.ac.uk"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/MadisonEast7"
 
 Wei Ning Fang:
   name: Wei Ning "Winnie" Fang
