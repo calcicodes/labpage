@@ -4,8 +4,8 @@ title:  "A Community Coral Reef"
 excerpt: ""
 categories: outreach
 author: Madison East
-toc: true
-toc_sticky: false
+toc: false
+toc_sticky: true
 header:
   teaser: /assets/images/posts/build-a-reef-teaser.png
 ---
