@@ -4,6 +4,7 @@ title:  "Title"
 excerpt: ""
 categories: 
 author: Oscar Branson
+chatgpt: false
 toc: true
 toc_sticky: true
 header:
