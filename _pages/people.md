@@ -12,8 +12,11 @@ Current and past lab members.
 {% assign current_list = site.people | where: "current", true %}
 {% assign alum_list = site.people | where: "current", false %}
 
+{% assign masters_list = current_list | where_exp: "item", "item.categories contains 'Masters'" %}
 {% assign phd_list = current_list | where_exp: "item", "item.categories contains 'PhD'" %}
 {% assign postdoc_list = current_list | where_exp: "item", "item.categories contains 'PostDoc'" %}
+
+
 
 <!-- make grids of people in different categories -->
 
@@ -21,11 +24,14 @@ Current and past lab members.
 
 {% include sub-grid.html entries=postdoc_list sort_by=page.sort_by sort_order=page.sort_order type="grid" %}
 
-
 ### PhD Students
-<!-- phd students -->
+
 {% include sub-grid.html entries=phd_list sort_by=page.sort_by sort_order=page.sort_order type="grid" %}
 
+### Masters Students
+
+{% include sub-grid.html entries=masters_list sort_by=page.sort_by sort_order=page.sort_order type="grid" %}
+
 ### Alumni
-<!-- alumni -->
+
 {% include sub-grid.html entries=alum_list sort_by=page.sort_by sort_order=page.sort_order type="grid" %}
