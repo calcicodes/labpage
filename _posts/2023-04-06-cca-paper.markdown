@@ -15,7 +15,7 @@ I worked with a group of international coral reef scientists to review the poten
 CCA are a group of calcifying algae that have a distinctive pink colour, and can be found encrusting hard surfaces below the tideline almost throughout the world, and particularly in coral reefs.
 Corals are usually considered to be the main builders of coral reefs, but CCA can also be important.
 
-<figure style="width: 60%" class="align-center">
+<figure style="width: 70%" class="align-center">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-Madi-coral.png" alt="Coral close-up"> -->
   <img src="/assets/images/posts/cca-paper-Fig2.png" alt="Images of CCA on coral reefs.">
   <figcaption> <strong> Crustose coralline algae in multiple habitats. </strong> (a) Jalan (or Tallon) Island, the waterfall reef built of coralline algae in northern Western Australia. (b) Crustose coralline algal community at Starbuck Island, Kiribati. (c) Settlement of crustose coralline algae over dead coral at Millennium Atoll, Kiribati. (d) Montgomery Reef, Australia’s largest inshore reef, formed entirely by crustose coralline algae covered by brown algae.
