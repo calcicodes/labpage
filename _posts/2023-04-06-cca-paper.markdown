@@ -25,7 +25,7 @@ Corals are usually considered to be the main builders of coral reefs, but CCA ca
 We first combine data and modelling approaches to show the potential importance of CCA to coral reef calcification.
 Under the right conditions, they can contribute as much, or even *more* than corals.
 CCA can be particularly important in flat regions of the reef, such as the windward reef crest that protects lagoons from wave action, and after major disturbances such as bleaching events where CCAs rapidly colonise dead coral structures.
-The increased frequency of these disturbances with climate change mean that CCAs may become increasingly critical to the surival of coral reefs.
+The increased frequency of these disturbances with climate change mean that CCAs may become increasingly critical to the surival of coral reefs in future.
 
 Despite their importance, CCA rarely included in calculations of coral reef carbonate budgets, mainly because they are rarely recorded accurately in reef benthic surveys.
 Our paper provides a range of suggestions to improve how we measure and account for the role of CCA in coral reef ecosystems.
