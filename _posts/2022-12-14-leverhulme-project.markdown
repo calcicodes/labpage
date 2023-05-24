@@ -2,7 +2,7 @@
 layout: single
 title:  "Research Leadership Award"
 excerpt: "Building Shells: Towards a Mechanistic Understanding of Biomineralisation"
-categories: research grant
+categories: research grant biomin geochem
 toc: true
 toc_sticky: true
 header:

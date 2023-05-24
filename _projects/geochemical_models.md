@@ -16,3 +16,5 @@ We can then determine the importance of each of these candidate processes using 
 The resulting mechanistic understanding of mineral formation can then be used to predict and interpret geochemical patterns in natural systems.
 
 {% include people_row %}
+
+{% include updates_row %}

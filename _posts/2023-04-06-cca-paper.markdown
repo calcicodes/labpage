@@ -2,7 +2,7 @@
 layout: single
 title:  "The unsung heroes of coral reefs"
 excerpt: "Crustose Coralline Algae can contribute a lot to reef calcification"
-categories: research paper
+categories: research paper biomin
 chatgpt: false
 toc: false
 toc_sticky: true
