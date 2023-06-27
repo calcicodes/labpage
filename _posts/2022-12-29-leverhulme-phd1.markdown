@@ -45,7 +45,7 @@ This PhD project will focus primarily on the physiological and gene expression s
 
 ## Specific Project Description
 
-This PhD student will work closely alongside a [postdoctoral researcher]({% post_url 2023-01-17-leverhulme-PDRA1 %}) to grow corals, foraminifera and coccolithophores under conditions designed to examine the pathways of ion transport and the processes of crystal growth in biomineralisation, and measure the physiological response of these organisms to those conditions.
+This PhD student will work closely alongside a [postdoctoral researcher]({% post_url 2023-06-27-leverhulme-PDRA1 %}) to grow corals, foraminifera and coccolithophores under conditions designed to examine the pathways of ion transport and the processes of crystal growth in biomineralisation, and measure the physiological response of these organisms to those conditions.
 
 <figure style="width: 100%" class="align-center">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-Madi-coral.png" alt="Coral close-up"> -->
