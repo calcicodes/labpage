@@ -6,3 +6,6 @@ papers:
 deploy:
 	git pull
 	bundle exec jekyll build --destination /var/www/biomin
+
+local:
+	bundle exec jekyll serve
