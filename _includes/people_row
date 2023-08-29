@@ -1,5 +1,9 @@
-{% assign current_people = site.people | where: "current", true %}
-{% assign people_list = current_people | where_exp: "item", "item.categories contains page.people_category" %}
+{% if page.people_involved %}
+    {% assign people_list = site.people | where_exp: "item", "page.people_involved contains item.title"%}
+{% else %}
+    {% assign current_people = site.people | where: "current", true %}
+    {% assign people_list = current_people | where_exp: "item", "item.categories contains page.people_category" %}
+{% endif %}
 
 {% if people_list.size > 0 %}
 <div class="people-row">
