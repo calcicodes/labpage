@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Green Island Fieldwork"
-excerpt: "A foray into foraminifera"
+title:  "A Foray into Foraminifera"
+excerpt: "Fieldwork on Green Island, Taiwan"
 categories: research fieldwork
 toc: true
 toc_sticky: true
