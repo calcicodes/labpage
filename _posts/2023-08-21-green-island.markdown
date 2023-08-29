@@ -2,7 +2,7 @@
 layout: single
 title:  "A Foray into Foraminifera"
 excerpt: "Fieldwork on Green Island, Taiwan"
-categories: research fieldwork
+categories: research fieldwork biomin
 toc: true
 toc_sticky: true
 people_involved:
