@@ -124,6 +124,15 @@ for k in sorted(infos.keys(), reverse=True):
             
     entries[k] = text
     textblock += entries[k] + '\n\n'
+    
+textblock += f'''
+<div id="supervised_label">
+    <p>
+        Updated: {datetime.now().strftime("%d/%m/%Y")}
+    </p>
+</div>
+
+'''
 
 textblock += '</div>'
 

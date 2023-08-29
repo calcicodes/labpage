@@ -3,9 +3,16 @@ layout: cv
 permalink: /CV/
 classes: wide
 author_profile: true
+updated: 1st Jan 2023
 ---
 
 # Curriculum Vitae
+
+<div id="supervised_label">
+    <p>
+        Last updated {{ page.updated }}.
+    </p>
+</div>
 
 ## Research Interests
 
