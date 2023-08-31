@@ -55,22 +55,9 @@ Alice Ball:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:aab96@cam.ac.uk"
-#   - label: "Website"
-#     icon: "fas fa-fw fa-link"
-#     # url: "https://your-website.com"
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/ballabetalice"
-#   - label: "Facebook"
-#     icon: "fab fa-fw fa-facebook-square"
-#     # url: "https://facebook.com/"
-#   - label: "GitHub"
-#     icon: "fab fa-fw fa-github"
-#     url: # "https://github.com/"
-#   - label: "Instagram"
-#     icon: "fab fa-fw fa-instagram"
-#     url: # "https://instagram.com/"
-
 
 # Evie:
 #   name: Evie
