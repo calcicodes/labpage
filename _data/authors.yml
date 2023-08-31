@@ -26,7 +26,7 @@ Wei Ning Fang:
 Lara Jurkovic:
   name: "Lara Jurkovic"
   bio: "Postdoc working on vaterite formation and geochemistry."
-  location: "Cambridge, UK"
+  location: "Pula, Croatia"
   avatar: "assets/images/people/bio-Lara-round.png"
   links:
   - label: "Email"
@@ -45,6 +45,32 @@ Orlando Timmerman:
   - label: "Website" 
     icon: "fas fa-fw fa-link"
     url: https://orlando-code.github.io/
+
+Alice Ball:
+  name: "Alice Ball"
+  bio: "PhD Student working on the physiology of marine calcifiers."
+  location: "Cambridge, UK"
+  avatar: "assets/images/people/bio-Alice-round.png"
+  links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:aab96@cam.ac.uk"
+#   - label: "Website"
+#     icon: "fas fa-fw fa-link"
+#     # url: "https://your-website.com"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/ballabetalice"
+#   - label: "Facebook"
+#     icon: "fab fa-fw fa-facebook-square"
+#     # url: "https://facebook.com/"
+#   - label: "GitHub"
+#     icon: "fab fa-fw fa-github"
+#     url: # "https://github.com/"
+#   - label: "Instagram"
+#     icon: "fab fa-fw fa-instagram"
+#     url: # "https://instagram.com/"
+
 
 # Evie:
 #   name: Evie
