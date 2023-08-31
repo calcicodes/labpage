@@ -53,7 +53,7 @@ There aren't many places in the world where you can work with planktic forams.
 You need a rare combination of easy access to open-ocean water, close to a well-equipped marine lab.
 Green Island has both!
 
-The island sits right in the flow of the Kuroshio current - a fast-flowing ocean current that brings surface ocean water in from pacific and up the east coast of Taiwant, China and eventually to Japan.
+The island sits right in the flow of the Kuroshio current - a fast-flowing ocean current that brings surface ocean water in from pacific and up the east coast of Taiwan, China and eventually to Japan.
 It's the Pacific equivalent of the Gulf Stream.
 This means that the water you find after a 5 min boat ride from Gongguan harbour is very similar to the water you find out in the open Pacific Ocean.
 The easy access to these types of open ocean conditions is really unique, and makes Green Island a perfect place to work on open ocean plankton like foraminifera.
