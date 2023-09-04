@@ -11,7 +11,7 @@ people_involved:
   - Wei Ning "Winnie" Fang (方薇甯)
   - Alice Ball
 header:
-  teaser: /assets/images/posts/green-island-2-teaser.png
+  teaser: /assets/images/posts/green-island-2-teaser.jpg
 ---
 
 As researchers, we all dream of escaping the desk for a reminder of why we do what we do, and the chance to follow our scientific curiosities without limitation (or so we hope). This week, our group embarked on a journey to do just that. We have arrived at the Green Island Marine Research Station in Taiwan, where for 5 weeks we will explore the wonderful natural laboratory right on our doorstep. We are here to catch and culture single celled plankton known as foraminifera. Never heard of them? Check out [this post by Oscar]({% post_url 2023-08-21-green-island %}) to learn who these tiny beasties are, and why we have chosen Green Island.
