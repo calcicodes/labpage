@@ -11,7 +11,7 @@ people_involved:
   - Wei Ning "Winnie" Fang (方薇甯)
   - Alice Ball
 header:
-  teaser: /assets/images/posts/green-island-2-teaser.jpg
+  teaser: /assets/images/posts/green-island-3-teaser.jpg
 ---
 
 Over the past week we have experienced many ups and downs on our quest to collect and culture the marine plankton foraminifera.
