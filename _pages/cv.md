@@ -111,29 +111,40 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 <div class="cvtag">2023</div>
 
-- __Goldschmidt Session Convener__
+- __Goldschmidt Conference Session Convener__
 
 <div class="cvtag">2022</div>
 
 - __Challenger Workshop Session Convener__
 - __International Working Group on Reef Calcification Budgets__
+- __Goldschmidt Conference Session Convener__
 
 <div class="cvtag">2021–</div>
 
 - __International Working Group on Palaeo-CO2 Reconstructions__
+- __Goldschmidt Conference Session Convener__
 
 <div class="cvtag">2020</div>
 
 - __TMS Geochemistry Workshop Organiser__
 - __Guest Editor for *Frontiers* Biomineralisation Special Edition__
 
-<div class="cvtag">2017,19,21,22</div>
+<div class="cvtag">2019</div>
 
 - __Goldschmidt Conference Session Convener__
 
-<div class="cvtag">2015,16</div>
+<div class="cvtag">2017</div>
+
+- __Goldschmidt Conference Session Convener__
+
+<div class="cvtag">2016</div>
 
 - __AGU Annual Meeting Session Convener__
+
+<div class="cvtag">2015</div>
+
+- __AGU Annual Meeting Session Convener__
+
 
 ### Service Roles
 
