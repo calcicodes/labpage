@@ -187,6 +187,10 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### PostDoctoral Research Associates
 
+<div class="cvtag">2023–</div>
+
+- __Duygu Sevilgen__ Micro-physioloy of marine calcifiers.
+
 <div class="cvtag">2021–22</div>
 
 - [__Lara Jurković__](/people/2021-Jurkovic-Lara/) Vaterite formation and geochemistry.
@@ -196,6 +200,12 @@ A major goal of my current research is to develop a quantitative mechanistic und
 - __Kate Holland (ANU)__ Foraminifera geochemistry.
 
 ### PhD Students
+
+<div class="cvtag">2023–</div>
+
+- [__Alice Ball__](/people/2023-Alice-Ball/) The physiology of marine calcifying organisms.
+- [__Orlando Timmerman__](/people/2023-Orlando-Timmerman/) Machine learning and coral reef survival.
+<!-- - [__Robert Petrie__](/people/2020-East-Madison/) Coral calcification mechanisms and geochemistry. -->
 
 <div class="cvtag">2020–</div>
 
@@ -209,6 +219,15 @@ A major goal of my current research is to develop a quantitative mechanistic und
 <div class="cvtag">2014–19</div>
 
 - __Elizabeth Read (Cambridge)__ Thesis: Diffraction and Spectroscopy of Marine Calcite Biominerals: Insights into Structure and Geochemistry. *Now: Senior Analyst, GlobalData*.
+
+### Masters Students
+
+<div class="cvtag">2024</div>
+<!-- - [__Davey__] -->
+<!-- - [__Emily__] -->
+
+<div class="cvtag">2023</div>
+- [__Orlando Timmerman__](/people/2023-Orlando-Timmerman/) Predicting coral reef distribution using multi-modal machine learning.
 
 ### Undergraduate Students
 
