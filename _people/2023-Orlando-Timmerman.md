@@ -2,7 +2,7 @@
 layout: single
 title:  "Orlando Timmerman"
 date:   2023-04-01
-categories: Masters student coral machine-learning
+categories: PhD student coral machine-learning
 current: true
 avatar: assets/images/people/bio-Orlando-round.png
 author: Orlando Timmerman
