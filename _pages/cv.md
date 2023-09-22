@@ -3,16 +3,12 @@ layout: cv
 permalink: /CV/
 classes: wide
 author_profile: true
-updated: 1st Jan 2023
+updated: 22nd Sept 2023
 ---
 
 # Curriculum Vitae
 
-<div id="supervised_label">
-    <p>
-        Last updated {{ page.updated }}.
-    </p>
-</div>
+_Last updated {{ page.updated }}._
 
 ## Research Interests
 
@@ -222,7 +218,7 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### Masters Students
 
-<div class="cvtag">2024</div>
+<!-- <div class="cvtag">2024</div> -->
 <!-- - [__Davey__] -->
 <!-- - [__Emily__] -->
 
