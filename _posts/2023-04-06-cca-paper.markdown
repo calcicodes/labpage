@@ -1,0 +1,33 @@
+---
+layout: single
+title:  "The unsung heroes of coral reefs"
+excerpt: "Crustose Coralline Algae can contribute a lot to reef calcification"
+categories: research paper biomin
+chatgpt: false
+toc: false
+toc_sticky: true
+header:
+  teaser: /assets/images/posts/cca-paper-teaser.png
+---
+
+I worked with a group of international coral reef scientists to review the potential importance of crustose coralline algae (CCA) on coral reef calcification.
+
+CCA are a group of calcifying algae that have a distinctive pink colour, and can be found encrusting hard surfaces below the tideline almost throughout the world, and particularly in coral reefs.
+Corals are usually considered to be the main builders of coral reefs, but CCA can also be important.
+
+<figure style="width: 70%" class="align-center">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-Madi-coral.png" alt="Coral close-up"> -->
+  <img src="/assets/images/posts/cca-paper-Fig2.png" alt="Images of CCA on coral reefs.">
+  <figcaption> <strong> Crustose coralline algae in multiple habitats. </strong> (a) Jalan (or Tallon) Island, the waterfall reef built of coralline algae in northern Western Australia. (b) Crustose coralline algal community at Starbuck Island, Kiribati. (c) Settlement of crustose coralline algae over dead coral at Millennium Atoll, Kiribati. (d) Montgomery Reef, Australia’s largest inshore reef, formed entirely by crustose coralline algae covered by brown algae.
+</figcaption>
+</figure>
+
+We first combine data and modelling approaches to show the potential importance of CCA to coral reef calcification.
+Under the right conditions, they can contribute as much, or even *more* than corals.
+CCA can be particularly important in flat regions of the reef, such as the windward reef crest that protects lagoons from wave action, and after major disturbances such as bleaching events where CCAs rapidly colonise dead coral structures.
+The increased frequency of these disturbances with climate change mean that CCAs may become increasingly critical to the surival of coral reefs in future.
+
+Despite their importance, CCA rarely included in calculations of coral reef carbonate budgets, mainly because they are rarely recorded accurately in reef benthic surveys.
+Our paper provides a range of suggestions to improve how we measure and account for the role of CCA in coral reef ecosystems.
+
+Read the full story in the [open-access paper](https://www.nature.com/articles/s43247-023-00766-w) that was published today.

@@ -66,7 +66,7 @@ for doi in dois:
         infos[key] = data
 
     except urllib.error.HTTPError:
-        print(f'Failed doi:{doi}')
+        print(f'Failed doi:{doi} (not found in altmetric database)')
         
 # # save images
 # if not os.path.exists('./imgs'):
@@ -124,6 +124,15 @@ for k in sorted(infos.keys(), reverse=True):
             
     entries[k] = text
     textblock += entries[k] + '\n\n'
+    
+textblock += f'''
+<div id="supervised_label">
+    <p>
+        Updated: {datetime.now().strftime("%d/%m/%Y")}
+    </p>
+</div>
+
+'''
 
 textblock += '</div>'
 

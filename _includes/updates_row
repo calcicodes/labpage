@@ -1,0 +1,11 @@
+
+{% assign recent_updates = site.categories.[page.people_category] %}
+
+{% if recent_updates.size > 0 %}
+<div class="update-row">
+    <h2>Recent Updates</h2>
+
+    {% include sub-grid.html entries=recent_updates type="grid" %}
+
+</div>
+{% endif %}

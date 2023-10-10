@@ -3,9 +3,12 @@ layout: cv
 permalink: /CV/
 classes: wide
 author_profile: true
+updated: 22nd Sept 2023
 ---
 
 # Curriculum Vitae
+
+_Last updated {{ page.updated }}._
 
 ## Research Interests
 
@@ -33,15 +36,15 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### Positions
 
-<div class="cvtag">2019-</div>
+<div class="cvtag">2019–</div>
 
 - __Assistant Professor__ Department of Earth Sciences, University of Cambridge
 
-<div class="cvtag">2016-19</div>
+<div class="cvtag">2016–19</div>
 
 - __Research Fellow__ Research School of Earth Sciences, Australian National University
 
-<div class="cvtag">2014-16</div>
+<div class="cvtag">2014–16</div>
 
 - __Postoctoral Researcher__ Earth and Planetary Sciences, University of California, Davis
 
@@ -51,19 +54,23 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### Qualifications
 
-<div class="cvtag">2010-14</div>
+<div class="cvtag">2010–14</div>
 
 - __Ph.D. Earth Sciences__ University of Cambridge
 
-<div class="cvtag">2009-10</div>
+<div class="cvtag">2009–10</div>
 
 - __M.Sc. Oceanography__ National Oceanography Centre, Southampton
 
-<div class="cvtag">2006-09</div>
+<div class="cvtag">2006–09</div>
 
 - __B.Sc. Biology__ University of Bristol
 
 ## Funding
+
+<div class="cvtag">2023</div>
+
+- __Royal Society International Exchange Grant__ [£11k] _Culture experiments to transform our understanding of foraminiferal palaeoclimate proxies_
 
 <div class="cvtag">2022</div>
 
@@ -79,9 +86,9 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 - __ANU Research Fellowship__
 
-<div class="cvtag">2011-17</div>
+<div class="cvtag">2011–</div>
 
-- __Synchrotron Proposals__ 11 out of 13 proposals funded
+- __Synchrotron Proposals__ 12 out of 14 proposals funded
 
 <div class="cvtag">2010</div>
 
@@ -91,50 +98,70 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### Leadership Roles
 
-<div class="cvtag">2020-</div>
+<!-- <div class="cvtag">2022-25</div> -->
+<!-- - __International Conference on Palaeoceanography Organising Committee__ -->
+
+<div class="cvtag">2020–2023</div>
 
 - __Co-Director of Artificial Intelligence for Environmental Risk (AI4ER) Doctoral Training Programme__ & Director of AI4ER MRes Programme
 
 ### Community Engagement
 
+<!-- TODO: add links -->
+
+<div class="cvtag">2023</div>
+
+- __Goldschmidt Conference Session Convener__
+
 <div class="cvtag">2022</div>
 
 - __Challenger Workshop Session Convener__
 - __International Working Group on Reef Calcification Budgets__
+- __Goldschmidt Conference Session Convener__
 
-<div class="cvtag">2021-</div>
+<div class="cvtag">2021–</div>
 
 - __International Working Group on Palaeo-CO2 Reconstructions__
+- __Goldschmidt Conference Session Convener__
 
 <div class="cvtag">2020</div>
 
 - __TMS Geochemistry Workshop Organiser__
 - __Guest Editor for *Frontiers* Biomineralisation Special Edition__
 
-<div class="cvtag">2017,19,21,22</div>
+<div class="cvtag">2019</div>
 
 - __Goldschmidt Conference Session Convener__
 
-<div class="cvtag">2015,16</div>
+<div class="cvtag">2017</div>
+
+- __Goldschmidt Conference Session Convener__
+
+<div class="cvtag">2016</div>
 
 - __AGU Annual Meeting Session Convener__
 
+<div class="cvtag">2015</div>
+
+- __AGU Annual Meeting Session Convener__
+
+
 ### Service Roles
 
-<div class="cvtag">2020-</div>
+<div class="cvtag">2020–2023</div>
 
 - __Department Seminar Convener__, Earth Sciences, Cambridge
 
-<div class="cvtag">2019-</div>
+<div class="cvtag">2019–</div>
 
 - __Scientific Computing Teaching Group__, Earth Sciences, Cambridge
 
-<div class="cvtag">2017-19</div>
+<div class="cvtag">2017–19</div>
 
 - __'Data Surgery' Convener__, RSES, ANU
 - __Data Science Research Committee__, RSES, ANU
 
-<div class="cvtag">2017-18</div>
+<div class="cvtag">2017–18</div>
 
 - __Equity and Diversity Committee__, RSES, ANU
 
@@ -176,28 +203,47 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### PostDoctoral Research Associates
 
-<div class="cvtag">2021-22</div>
+<div class="cvtag">2023–</div>
+
+- __Duygu Sevilgen__ Micro-physioloy of marine calcifiers.
+
+<div class="cvtag">2021–22</div>
 
 - [__Lara Jurković__](/people/2021-Jurkovic-Lara/) Vaterite formation and geochemistry.
 
-<div class="cvtag">2018-19</div>
+<div class="cvtag">2018–19</div>
 
 - __Kate Holland (ANU)__ Foraminifera geochemistry.
 
 ### PhD Students
 
-<div class="cvtag">2020-</div>
+<div class="cvtag">2023–</div>
+
+- [__Alice Ball__](/people/2023-Alice-Ball/) The physiology of marine calcifying organisms.
+- [__Orlando Timmerman__](/people/2023-Orlando-Timmerman/) Machine learning and coral reef survival.
+<!-- - [__Robert Petrie__](/people/2020-East-Madison/) Coral calcification mechanisms and geochemistry. -->
+
+<div class="cvtag">2020–</div>
 
 - [__Madison East__](/people/2020-East-Madison/) Coral calcification mechanisms and geochemistry.
 - [__Wei-Ning (Winnie) Fang__](/people/2020-Fang-Wei-Ning/) Foraminiferal micro-evironments and goechemistry.
 
-<div class="cvtag">2016-18</div>
+<div class="cvtag">2016–18</div>
 
 - __Kate Holland (ANU)__ Thesis: Environmental and biological controls on the shell geochemistry of the planktic foraminifera *Orbulina universa*. *Now: Australian Capital Territory Environment Agency.*
 
-<div class="cvtag">2014-19</div>
+<div class="cvtag">2014–19</div>
 
 - __Elizabeth Read (Cambridge)__ Thesis: Diffraction and Spectroscopy of Marine Calcite Biominerals: Insights into Structure and Geochemistry. *Now: Senior Analyst, GlobalData*.
+
+### Masters Students
+
+<!-- <div class="cvtag">2024</div> -->
+<!-- - [__Davey__] -->
+<!-- - [__Emily__] -->
+
+<div class="cvtag">2023</div>
+- [__Orlando Timmerman__](/people/2023-Orlando-Timmerman/) Predicting coral reef distribution using multi-modal machine learning.
 
 ### Undergraduate Students
 
@@ -211,7 +257,7 @@ _* denotes newly designed course material._
 
 ### Course Development
 
-<div class="cvtag">2021-</div>
+<div class="cvtag">2021–</div>
 
 - __Co-Designer & Lecturer of Quantitative Environmental Sciences course__, new cross-disciplinary 2nd year course in the Natural Sciences degree.
 
@@ -224,45 +270,45 @@ _* denotes newly designed course material._
 
 #### 1st Year
 
-<div class="cvtag">2020-</div>
+<div class="cvtag">2020–</div>
 
 - *__Earth Sciences__: Practical class on carbon in the ocean and its interaction with atmospheric pCO2 using an [interactive model](https://oscarbranson.github.io/interactprac/).
 
 #### 2nd Year
 
-<div class="cvtag">2022-</div>
+<div class="cvtag">2022–</div>
 
 - *__Quantitative Environmental Sciences__: lectures on ocean carbon cycling and climate, and practicals building an ocean carbon model in Python [6 lectures, 4 practicals].
 
 #### 3rd Year
 
-<div class="cvtag">2019-</div>
+<div class="cvtag">2019–</div>
 
 - *__Earth Sciences__: section of _Mineralogy_ course focussing on Biominerals [6 lectures, 4 practicals].
 
 #### 4th Year
 
-<div class="cvtag">2022-</div>
+<div class="cvtag">2022–</div>
 
 - *__Earth Sciences__: section of _Environmental Geochemistry_ course on Ocean Acidification [4 lectures, 4 practicals].
 
 ### AI4ER MRes
 
-<div class="cvtag">2020-</div>
+<div class="cvtag">2020–</div>
 
 - *__Environmental Risk__: Lectures and practical session on machine learning approaches to ocean-atmosphere CO<sub>2</sub> transfer.
 
 ### Field Teaching
 
-<div class="cvtag">2022-</div>
+<div class="cvtag">2022–</div>
 
 - __Part 1A Earth Sciences__ field trip to the Isle of Arran, Scotland, UK.
 - __Part III Earth Sciences__ field trip to Greece.
 
-<div class="cvtag">2021-</div>
+<div class="cvtag">2021–</div>
 
 - __Sedimentology__ 2nd year undergraduate trip to the Jurassic Coast, UK.
 
-<div class="cvtag">2017-19</div>
+<div class="cvtag">2017–19</div>
 
 - __Coral Reefs Field Course__ (ANU) Marine chemistry and calcification leader. 3rd year undergraduate trip to One Tree Island, Great Barrier Reef.

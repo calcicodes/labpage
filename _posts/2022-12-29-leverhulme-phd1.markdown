@@ -2,17 +2,22 @@
 layout: single
 title:  "PhD Student Wanted!"
 excerpt: "Outside the comfort zone: physiological responses of marine calcifiers to extreme environmental conditions."
-categories: job
+categories: job biomin
 toc: true
 toc_sticky: true
+header:
+  teaser: /assets/images/posts/phd1-teaser.png
 ---
 
 _**Outside the comfort zone: physiological responses of marine calcifiers to extreme environmental conditions.**_
 
 How does the physiology of marine calcifying organisms (corals, foraminifera and coccolithophores) change when exposed to extreme conditions in past, present and future oceans? What can these responses tell us about the mechanisms involved in producing their biomineral shells?
 
-**Application Deadline:** Midnight 31st January 2023.
+**Applications for this studentship are now closed.**
 {: .notice--warning}
+
+<!-- **Application Deadline:** Midnight (UTC) 27<sup>th</sup> January 2023. See [below](#applications) for more details.
+{: .notice--warning} -->
 
 ## Project Context
 
@@ -40,11 +45,11 @@ This PhD project will focus primarily on the physiological and gene expression s
 
 ## Specific Project Description
 
-This PhD student will work closely alongside a postdoctoral researcher to grow corals, foraminifera and coccolithophores under conditions designed to examine the pathways of ion transport and the processes of crystal growth in biomineralisation, and measure the physiological response of these organisms to those conditions.
+This PhD student will work closely alongside a [postdoctoral researcher]({% post_url 2023-10-09-leverhulme-PDRA1 %}) to grow corals, foraminifera and coccolithophores under conditions designed to examine the pathways of ion transport and the processes of crystal growth in biomineralisation, and measure the physiological response of these organisms to those conditions.
 
 <figure style="width: 100%" class="align-center">
   <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-Madi-coral.png" alt="Coral close-up"> -->
-  <img src="/assets/images/post-culturing.png" alt="Foraminifera and coral culturing">
+  <img src="/assets/images/posts/phd1-culturing.png" alt="Foraminifera and coral culturing">
   <figcaption>Capturing foraminifera in the field (left) and growing corals in the lab (right).</figcaption>
 </figure> 
 
@@ -68,12 +73,24 @@ The student will assess the impact of these conditions on the organisms by measu
 - Data analysis and interpretation.
 - Scientific presentation and writing.
 
-## Applications
+<!-- ## Applications
 
 An **ideal applicant** will have a strong background in biological or natural sciences, and some or all of:
 
 - Training relevant to the specifics of this project (organism physiology and measurement, transcriptomics).
 - Practical laboratory experience, ideally with marine organisms.
 
-Please send applications by email to [Oscar Branson](mailto:ob266@cam.ac.uk) including a CV, a cover letter, and the names and contact details of two referees.
-The deadline for applications is **midnight 31st January 2023**.
+Please [get in touch](mailto:ob266@cam.ac.uk) to discuss the project in more detail, then submit an application via the [University of Cambridge Graduate Application Portal](https://apply.postgraduate.study.cam.ac.uk).
+
+General instructions for applying can be found [here](https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply), but a few specifics for applying to this project are:
+
+1. After logging in to the application portal, open the Course Directory.
+2. Type 'Earth Sciences' in the search box, and select the 'Earth Sciences PhD' course.
+3. This will take you to the course description page, where you should click the 'Apply Now' button.
+4. Choose a start date of 01-Oct-2023, and select 'Full-Time' study.
+5. Click 'Apply for this course', and complete the application form.
+6. You will receive a notice in the 'Funding' section that the deadline has passed for funding applications - don't worry about this.
+7. In the 'Research' section select 'Yes' in reply to 'Do you have any research information to add?', then give the title of this project ('Outside the comfort zone: physiological responses of marine calcifiers to extreme environmental conditions.') and my name ('Oscar Branson') as the supervisor. You do not need to put anything in the 'summary of proposed research' box, but please do list any experience you have that's relevant to the project in the 'Research Experience' box.
+8. Please [contact me](mailto:ob266@cam.ac.uk) if you have any questions about the application process.
+
+The deadline for applications is **midnight (UTC) on 27<sup>th</sup> January 2023**. -->

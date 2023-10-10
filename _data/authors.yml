@@ -9,6 +9,9 @@ Madison East:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:mste2@cam.ac.uk"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/MadisonEast7"
 
 Wei Ning Fang:
   name: Wei Ning "Winnie" Fang
@@ -23,18 +26,44 @@ Wei Ning Fang:
 Lara Jurkovic:
   name: "Lara Jurkovic"
   bio: "Postdoc working on vaterite formation and geochemistry."
-  location: "Cambridge, UK"
+  location: "Pula, Croatia"
   avatar: "assets/images/people/bio-Lara-round.png"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
-    url: "mailto:lj397@cam.ac.uk"
+    url: "mailto:Lara.Jurkovic@irb.hr"
 
-Evie:
-  name: Evie
-  bio: "I am a cat."
-  location: Cambridge, UK
-  avatar: assets/images/people/bio-Evie-round.png
+Orlando Timmerman:
+  name: "Orlando Timmerman"
+  bio: "PhD Student using machine learning methods to understand where where corals like to live."
+  location: "Cambridge, UK"
+  avatar: "assets/images/people/bio-Orlando-round.png"
+  links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:rt582@cam.ac.uk"
+  - label: "Website" 
+    icon: "fas fa-fw fa-link"
+    url: https://orlando-code.github.io/
+
+Alice Ball:
+  name: "Alice Ball"
+  bio: "PhD Student working on the physiology of marine calcifiers."
+  location: "Cambridge, UK"
+  avatar: "assets/images/people/bio-Alice-round.png"
+  links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:aab96@cam.ac.uk"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/ballabetalice"
+
+# Evie:
+#   name: Evie
+#   bio: "I am a cat."
+#   location: Cambridge, UK
+#   avatar: assets/images/people/bio-Evie-round.png
 
 # Firstname Lastname:
 #   name: "Their Name"
