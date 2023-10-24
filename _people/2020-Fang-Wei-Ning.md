@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: person
 title:  Wei Ning "Winnie" Fang (方薇甯)
 date:   2020-10-01
 categories: PhD student geochem biomin

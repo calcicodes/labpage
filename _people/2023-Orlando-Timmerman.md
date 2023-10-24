@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: person
 title:  "Orlando Timmerman"
 date:   2023-04-01
 categories: PhD student coral machine-learning

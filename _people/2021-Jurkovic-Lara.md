@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: person
 title:  "Lara Jurkovic"
 date:   2020-10-01
 categories: PostDoc Alumni precip geochem

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: person
 title:  "Robert Petrie"
 date:   2023-10-24
 categories: PhD student 
