@@ -59,6 +59,16 @@ Alice Ball:
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/ballabetalice"
 
+Robert Petrie:
+  name: "Robert Petrie"
+  bio: "PhD student developing fibre optic sensors for ocean carbon chemistry."
+  location: "Cambridge, UK"
+  avatar: "assets/images/people/bio-Robert-round.png"
+  links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:rdp43@cam.ac.uk"
+
 # Evie:
 #   name: Evie
 #   bio: "I am a cat."

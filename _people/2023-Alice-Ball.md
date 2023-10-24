@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: person
 title:  "Alice Ball"
 date:   2023-08-31
 categories: PhD student biomin physiology leverhulme

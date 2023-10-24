@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: person
 title:  "Madison East"
 date:   2020-10-01
 categories: PhD student geochem biomin

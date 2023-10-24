@@ -7,6 +7,10 @@
   {% assign entries = entries | reverse %}
 {% endif %}
 
+{% if include.limit %}
+  {% assign entries = entries | limit: include.limit %}
+{% endif %}
+
 <div class="entries-grid" style="display:inline-block; width:100%">
 {%- for post in include.entries -%}
   {%- unless post.hidden -%}
