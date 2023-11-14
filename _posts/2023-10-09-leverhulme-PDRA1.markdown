@@ -2,7 +2,7 @@
 layout: single
 title:  "PostDoc Wanted!"
 excerpt: "Transcriptome of Marine Calcifiers"
-categories: job biomin
+categories: job
 toc: true
 toc_sticky: true
 header:
