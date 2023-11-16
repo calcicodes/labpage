@@ -220,8 +220,8 @@ A major goal of my current research is to develop a quantitative mechanistic und
 <div class="cvtag">2023–</div>
 
 - [__Alice Ball__](/people/2023-Alice-Ball/) The physiology of marine calcifying organisms.
+- [__Robert Petrie__](/people/2023-Robert-Petrie/) Fibre optics for ocean carbon measurement.
 - [__Orlando Timmerman__](/people/2023-Orlando-Timmerman/) Machine learning and coral reef survival.
-<!-- - [__Robert Petrie__](/people/2020-East-Madison/) Coral calcification mechanisms and geochemistry. -->
 
 <div class="cvtag">2020–</div>
 
@@ -241,6 +241,7 @@ A major goal of my current research is to develop a quantitative mechanistic und
 <!-- <div class="cvtag">2024</div> -->
 <!-- - [__Davey__] -->
 <!-- - [__Emily__] -->
+<!-- - [__Amelia__] -->
 
 <div class="cvtag">2023</div>
 - [__Orlando Timmerman__](/people/2023-Orlando-Timmerman/) Predicting coral reef distribution using multi-modal machine learning.
