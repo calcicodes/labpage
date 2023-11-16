@@ -24,16 +24,20 @@ Current and past lab members.
 
 {% include sub-grid.html entries=postdoc_list sort_by=page.sort_by sort_order=page.sort_order type="grid" %}
 
+{% if phd_list.size > 0 %}
 ### PhD Students
 
 {% include sub-grid.html entries=phd_list sort_by=page.sort_by sort_order=page.sort_order type="grid" %}
 
-{% if len(masters_list) > 0 %}
+{% endif %}
+
+{% if masters_list.size > 0 %}
 ### Masters Students
 
 {% include sub-grid.html entries=masters_list sort_by=page.sort_by sort_order=page.sort_order type="grid" %}
 
 {% endif %}
+
 ### Alumni
 
 {% include sub-grid.html entries=alum_list sort_by=page.sort_by sort_order=page.sort_order type="grid" %}
