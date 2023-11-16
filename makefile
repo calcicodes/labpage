@@ -5,8 +5,7 @@ papers:
 
 deploy:
 	git pull
-	JEKYLL_ENV=production
-	bundle exec jekyll build --destination /var/www/biomin
+	JEKYLL_ENV=production bundle exec jekyll build --destination /var/www/biomin
 
 local:
-	bundle exec jekyll serve
+	JEKYLL_ENV=production bundle exec jekyll serve
