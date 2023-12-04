@@ -70,13 +70,16 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 <div class="cvtag">2023</div>
 
+- __Isaac Newton Trust Research Grant__
+[£22k] _Physiology of Marine Calcifying Organisms under Extreme Conditions_
 - __Royal Society International Exchange Grant__ [£11k] _Culture experiments to transform our understanding of foraminiferal palaeoclimate proxies_
 
 <div class="cvtag">2022</div>
 
 - __Leverhulme Trust Research Leadership Award__
 [£1M] _Building Shells: Towards a Mechanistic Understanding of Biomineralisation_
-- __NERC Cross-disciplinary Research for Discovery Science__ [£10k] _Exploring novel fibre optic sensors for measuring ocean carbon_
+- __NERC Cross-disciplinary Research for Discovery Science__ 
+[£10k] _Exploring novel fibre optic sensors for measuring ocean carbon_
 
 <div class="cvtag">2020</div>
 
