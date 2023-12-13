@@ -11,7 +11,8 @@ header:
 
 I am seeking a postdoctoral researcher to join the multidisciplinary project “[Building Shells: Towards a Mechanistic Understanding of Biomineralisation]({% post_url 2022-12-14-leverhulme-project %})” funded by the Leverhulme Trust.
 
-**Application:** . The deadline for applications is **midnight (UTC) on 30<sup>th</sup> November 2023**. See [below](#applications) for more details.
+**Application:** Applications for this position are now closed. 
+<!-- The deadline for applications is **midnight (UTC) on 30<sup>th</sup> November 2023**. See [below](#applications) for more details. -->
 {: .notice--warning}
 
 ## Project Context
@@ -42,10 +43,12 @@ The logistical constraints of the research will require the successful candidate
 
 The successful candidate would available to on or before the 1st January 2024. The post will end 3 years after the start date.
 
-Please [get in touch](mailto:ob266@cam.ac.uk) to discuss the project in more detail if you are interested in applying.
+**Applications for this position are now closed.**
 
-The deadline for applications is **midnight (UTC) on 30<sup>th</sup> November 2023**. We anticipate that interviews will be held in the first week of December 2023.
+<!-- Please [get in touch](mailto:ob266@cam.ac.uk) to discuss the project in more detail if you are interested in applying. -->
 
-[Apply Here](https://www.jobs.cam.ac.uk/job/39499/){: .btn .btn--info}
+<!-- The deadline for applications is **midnight (UTC) on 30<sup>th</sup> November 2023**. We anticipate that interviews will be held in the first week of December 2023. -->
+
+<!-- [Apply Here](https://www.jobs.cam.ac.uk/job/39499/){: .btn .btn--info} -->
 
 
