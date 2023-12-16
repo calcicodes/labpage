@@ -66,6 +66,11 @@ We then race back to the lab (which is in an old prison!) to sort them and assig
 Then the daily routine of health checking, feeding and monitoring forams in experiments for the 7-10 days that it takes forams to finish their life cycle in the lab.
 On this trip we're focussing on studying the physiology of foram as they produce their shells, and are running experiments to calibrate new proxies for past ocean carbon concentration.
 
-Watch this space for updates!
+## Want to know more?
+
+ - [Learn about day-to-day life on Green Island]({% post_url 2023-09-01-green-island-2 %})
+ - [Typhoons and Respirometry]({% post_url 2023-09-10-green-island-3 %})
+ - [A summary of our trip on the Department of Earth Sciences website](https://blog.esc.cam.ac.uk/a-foray-into-foraminifera-one-island-two-research-teams-a-boat-and-a-frenzy-of-forams/)
+
 
 {% include people_row%}

@@ -119,3 +119,11 @@ We also encountered the occasional vertebrate...
 </figure>
 
 That's all for now folks! Wish us luck as we continue the adventure- here's to hoping for calmer seas and a cooler breeze.
+
+## Want to know more?
+
+ - [Find out why we're here]({% post_url 2023-08-21-green-island %})
+ - [Learn about day-to-day life on Green Island]({% post_url 2023-09-01-green-island-2 %})
+ - [A summary of our trip on the Department of Earth Sciences website](https://blog.esc.cam.ac.uk/a-foray-into-foraminifera-one-island-two-research-teams-a-boat-and-a-frenzy-of-forams/)
+
+{% include people_row%}

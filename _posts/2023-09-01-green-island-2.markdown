@@ -75,3 +75,11 @@ Whilst out on the boat, we have also focused on collecting ocean condition data.
 With individuals from 3 universities (National Taiwan University and Academia Sinica in Taipei, and Cambridge) and 7 different nationalities, it has been a wonderfully rich week both scientifically and socially.
 
 As we write, a typhoon is fast approaching the Island. With our imminent boat collection dives cancelled and food stores ready for a few days sheltering in the station, we are looking ahead to a week of exploration in the lab. Stay tuned to hear if the typhoon makes landfall!
+
+## Want to know more?
+
+ - [Find out why we're here]({% post_url 2023-08-21-green-island %})
+ - [Typhoons and Respirometry]({% post_url 2023-09-10-green-island-3 %})
+ - [A summary of our trip on the Department of Earth Sciences website](https://blog.esc.cam.ac.uk/a-foray-into-foraminifera-one-island-two-research-teams-a-boat-and-a-frenzy-of-forams/)
+
+{% include people_row%}
