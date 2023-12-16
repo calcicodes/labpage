@@ -15,6 +15,12 @@ _**Outside the comfort zone: geochemical changes in marine calcifiers in respons
 
 How does the geochemistry (trace element and isotopic composition) of skeletons produced by marine calcifying organisms (corals, foraminifera and coccolithophores) change when exposed to extreme conditions in past, present and future oceans? What can these responses tell us about the mechanisms involved in producing their biomineral shells?
 
+This project will use geochemical measurements of calcium carbonate biominerals grown under controlled conditions to help us understand:
+
+ - how biominerals form
+ - how they will respond to future environmental conditions
+ - how we interpret their geochemistry as an archive of past environmental conditions.
+
 **Application Deadline:** There are two different deadlines for this project: Applications from **International Students** must be received by 12:00 (noon, UTC) on the **4<sup>th</sup> January 2024** to be considered for funding. Applications from **Home Fees Students** must be received by 12:00 (noon, UTC) on the **19<sup>th</sup> January 2024**. See [below](#applications) for more details.
 {: .notice--warning}
 
