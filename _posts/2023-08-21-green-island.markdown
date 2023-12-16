@@ -72,5 +72,4 @@ On this trip we're focussing on studying the physiology of foram as they produce
  - [Typhoons and Respirometry]({% post_url 2023-09-10-green-island-3 %})
  - [A summary of our trip on the Department of Earth Sciences website](https://blog.esc.cam.ac.uk/a-foray-into-foraminifera-one-island-two-research-teams-a-boat-and-a-frenzy-of-forams/)
 
-
 {% include people_row%}
