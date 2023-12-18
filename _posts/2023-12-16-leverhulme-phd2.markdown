@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "PhD Student Wanted!"
-excerpt: "Outside the comfort zone: physiological responses of marine calcifiers to extreme environmental conditions."
+excerpt: "Outside the comfort zone: geochemical changes in marine calcifiers in response to extreme environmental conditions."
 categories: job biomin
 toc: true
 toc_sticky: true
