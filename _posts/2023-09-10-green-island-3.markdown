@@ -38,7 +38,7 @@ Luckily, the worst of the storm ended up missing the island, but boats were not 
   </figcaption>
 </figure>
 
-Despite the unpredictable weather, we were still able to prepare for upcoming experiments in the lab, and culture the few forms we had already been able to collect on the practice dive.
+Despite the unpredictable weather, we were still able to prepare for upcoming experiments in the lab, and culture the few forams we had already been able to collect on the practice dive.
 After collection, forams are examined under an inverted microscope; species are identified, shells measured, the state of symbionts, spines, and any other notable features recorded.
 Using a wide-mouthed pipette, forams are then carefully transferred from collection jars into culture jars where they'll live out the rest of their lives (7-10 days) in experiments.
 Species can be difficult to distinguish, and often a close examination of the shell pores (small holes in the walls) and symmetry is needed.
