@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "New Paper!"
+title:  "New Paper: Kgen!"
 excerpt: "Kgen: reducing inconsistencies in seawater carbon calculations."
 categories: research paper
 chatgpt: false
