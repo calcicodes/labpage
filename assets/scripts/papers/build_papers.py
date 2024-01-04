@@ -12,6 +12,11 @@ def mk_key(info):
     pubdate = datetime.utcfromtimestamp(info['published_on'])
     return f'{pubdate.year}_{pubdate.month:02}_{pubdate.day:02}'
 
+def parse_journal(journal):
+    if journal.lower() == 'preprint':
+        return '<preprint>PREPRINT</preprint>'
+    return "<em>" + journal + "</em>"
+
 def parse_authors(authorlist, students):
     abrvmtch = re.compile('[A-Z]{1}')
 
@@ -87,6 +92,15 @@ for k, v in manual.items():
     if k in infos:
         raise ValueError('Manual key "{k}" is already in database. Modify keys in manual_citations.json')
     infos[k] = v
+    
+# Add preprints
+with open('assets/scripts/papers/citations/preprints.json', 'r') as f:
+    preprints = json.loads(f.read())
+    
+for k, v in preprints.items():
+    if k in infos:
+        raise ValueError('Preprint key "{k}" is already in database. Modify keys in preprints.json')
+    infos[k] = v
 
 # Generate citation html
 cite_source = '<p>\n        <a class="cite" href="URL">CITATION</a>\n    </p>\n</div>'
@@ -109,7 +123,7 @@ for k in sorted(infos.keys(), reverse=True):
     i = infos[k]
     year = k[:4]
     url = i['url']
-    citation = parse_authors(i['authors'], students) + ' ' + i['title'] + '. <em>' + i['journal'] + "</em>." + ' doi:' + i['doi']
+    citation = parse_authors(i['authors'], students) + ' ' + i['title'] + '. ' + parse_journal(i['journal']) + "." + ' doi:' + i['doi']
     
     text = ''
 
