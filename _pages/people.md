@@ -22,7 +22,13 @@ Current and past lab members.
 
 <!-- ### PostDocs -->
 
+{% if postdoc_list.size > 0 %}
+
+### Postdocs
+
 {% include sub-grid.html entries=postdoc_list sort_by=page.sort_by sort_order=page.sort_order type="grid" %}
+
+{% endif %}
 
 {% if phd_list.size > 0 %}
 ### PhD Students
