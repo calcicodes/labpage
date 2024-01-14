@@ -91,7 +91,7 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 <div class="cvtag">2011–</div>
 
-- __Synchrotron Proposals__ 12 out of 14 proposals funded
+- __Synchrotron Proposals__ 13 out of 15 proposals funded
 
 <div class="cvtag">2010</div>
 
