@@ -69,6 +69,19 @@ Robert Petrie:
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:rdp43@cam.ac.uk"
 
+Duygu Sevilgen:
+  name: "Duygu S. Sevilgen"
+  bio: 
+  location: Cambridge, UK
+  avatar: "assets/images/people/bio-Duygu-round.png"
+  links:
+  # - label: "Email"
+  #   icon: "fas fa-fw fa-envelope-square"
+  #   url: "mailto:rdp43@cam.ac.uk"
+    - label: "ORCiD"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-5026-9214"
+
 # Evie:
 #   name: Evie
 #   bio: "I am a cat."
@@ -99,3 +112,6 @@ Robert Petrie:
 #   - label: "Instagram"
 #     icon: "fab fa-fw fa-instagram"
 #     url: # "https://instagram.com/"
+#   - label: "ORCiD"
+#     icon: "fab fa-fw fa-orcid"
+#     url: "https://orcid.org/0000-0002-1851-497X"
