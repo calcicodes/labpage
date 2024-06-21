@@ -71,16 +71,29 @@ Robert Petrie:
 
 Duygu Sevilgen:
   name: "Duygu S. Sevilgen"
-  bio: 
+  bio: "PostDoc using microelectrode sensors to study biomineralisation."
   location: Cambridge, UK
   avatar: "assets/images/people/bio-Duygu-round.png"
   links:
-  # - label: "Email"
-  #   icon: "fas fa-fw fa-envelope-square"
-  #   url: "mailto:rdp43@cam.ac.uk"
-    - label: "ORCiD"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-5026-9214"
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:dss58@cam.ac.uk"
+  - label: "ORCiD"
+    icon: "fab fa-fw fa-orcid"
+    url: "https://orcid.org/0000-0002-5026-9214"
+
+Nishant Chauhan:
+  name: "Nishant Chauhan"
+  bio: "PostDoc using transcriptomics to study biomineralisation."
+  location: Cambridge, UK
+  avatar: "assets/images/people/bio-Nishant-round.png"
+  links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:nc667@cam.ac.uk"
+  - label: "ORCiD"
+    icon: "fab fa-fw fa-orcid"
+    url: "https://orcid.org/0000-0003-2418-8493"
 
 # Evie:
 #   name: Evie
