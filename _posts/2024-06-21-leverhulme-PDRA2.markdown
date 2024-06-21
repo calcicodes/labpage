@@ -19,7 +19,7 @@ The deadline for applications is **midnight (UTC) on 25<sup>th</sup> July 2024**
 
 The successful candidate will work closely with the [PI](/CV) and a [PhD student]({% post_url 2023-12-16-leverhulme-phd2 %}) to measure the trace element and isotopic composition of calcium carbonate biominerals produced by marine calcifying organisms (corals, foraminifera, coccolithophores) grown under controlled conditions in laboratory and field settings.
 
-The experimental conditions will be designed to explore the pathways of ion transport and processes of crystal growth involved in biomineralisation, and will push organisms beyond conditions they experience in the wild. The task of this PDRA will be to characterise, as comprehensively as possible, how the geochemistry of the minerals produce by these organisms responds to those same conditions.
+The experimental conditions will be designed to explore the pathways of ion transport and processes of crystal growth involved in biomineralisation, and will push organisms beyond conditions they experience in the wild. The task of this PDRA will be to characterise, as comprehensively as possible, how the geochemistry of the minerals produce by these organisms responds to those conditions.
 
 These geochemical data will advance our understanding of both the mechanisms of biomineralisation, and the 'recording' of palaeoceanographic proxies.
 
