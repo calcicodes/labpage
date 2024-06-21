@@ -6,7 +6,7 @@ author_profile: true
 updated: 22nd Sept 2023
 ---
 
-# Curriculum Vitae
+# Oscar Branson: CV
 
 _Last updated {{ page.updated }}._
 
