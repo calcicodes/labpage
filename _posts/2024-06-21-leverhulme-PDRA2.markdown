@@ -1,0 +1,53 @@
+---
+layout: single
+title:  "PostDoc Wanted!"
+excerpt: "Geochemistry of Marine Calcification Mechanisms"
+categories: job
+toc: true
+toc_sticky: true
+header:
+  teaser: /assets/images/posts/leverhulme-pdra1-teaser.png
+---
+
+I am seeking a postdoctoral research associate (PDRA) to join the multidisciplinary project “[Building Shells: Towards a Mechanistic Understanding of Biomineralisation]({% post_url 2022-12-14-leverhulme-project %})” funded by the Leverhulme Trust.
+
+**Application:** .
+The deadline for applications is **midnight (UTC) on 25<sup>th</sup> July 2024**. See [below](#applications) for more details.
+{: .notice--warning}
+
+## Project Scope
+
+The successful candidate will work closely with the [PI](/CV) and a [PhD student]({% post_url 2023-12-16-leverhulme-phd2 %}) to measure the trace element and isotopic composition of calcium carbonate biominerals produced by marine calcifying organisms (corals, foraminifera, coccolithophores) grown under controlled conditions in laboratory and field settings.
+
+The experimental conditions will be designed to explore the pathways of ion transport and processes of crystal growth involved in biomineralisation, and will push organisms beyond conditions they experience in the wild. The task of this PDRA will be to characterise, as comprehensively as possible, how the geochemistry of the minerals produce by these organisms responds to those same conditions.
+
+## How does this fit into the 'Building Shells' project?
+
+The PDRA would join a cross-disciplinary project team including four PDRAs, three PhD students and numerous (international) collaborators.
+The project aims to bring together physiological, geochemical and computational approaches to advance our understanding of biomineralisation mechanisms over the next four years.
+
+The geochemical measurements made by this PDRA will be considered alongside measurements of the physiology and transcriptome of the same organisms (1 PDRA + 1 PhD student). These combined physiogical and geochemical data will then be used to inform computational modelling of biomineralisation processes (1 PDRA + 1 PhD student). Together, these data will provide a comprehensive biological and geochemical dataset to inform our understanding of biomineralisation mechanisms and the 'recording' or palaeoceanographic proxies.
+
+## What sort of person am I looking for?
+
+I'm looking for someone who has (or is about to obtain) a PhD in the broad area of Geochemistry, with PhD-level experience in one or more of: (i) measurement of trace elemental composition of carbonate minerals (e.g. Mg/Ca, Sr/Ca, Ba/Ca, B/Ca, etc.) and associated sample preparation techniques; (ii) measurement of the isotopic composition of carbonate minerals and their trace elements (e.g. ẟ<sup>7</sup>Li, ẟ<sup>11</sup>B, ẟ<sup>13</sup>C, ẟ<sup>24</sup>Mg, ẟ<sup>44</sup>Ca, etc.) and associated sample preparation techniques; (iii) independently running solution or laser ablation mass spectrometry instruments to analyse complex samples, and associated processing and interpretation of data. A willingness to work alongside researchers from diverse research backgrounds, and an interest in becoming involved in culturing the marine organisms are also desirable.
+
+The project will make extensive use state-of-the-art Geochemistry labs in the Department of Earth Sciences, including (but not limited to) trace metal clean labs, ThermoFisher iCap-Q, Neptune and Neoma mass spectrometers, and an Analyte G2 Laser Ablation system. Training is available will be provided where necessary, but I am looking for a competent geochemist who knows their way around sample preparation and mass spectrometry.
+
+The biominerals that will be analysed by the project will be grown in laboratory culturing systems, and in the field (e.g. read about our last trip to Taiwan [here]({% post_url 2023-08-21-green-island %})!). This culturing work is primarily being conducted by an existing PDRA and PhD student, but involvement is welcome and encouraged (though not required).
+
+## How do I find out more?
+
+Please [get in touch](mailto:ob266@cam.ac.uk) if you'd like to find out more about the project, or discuss your suitability for it.
+
+If you'd like to find out more about what it's like to work in the Department, and specifically with me, feel free to contact any of the [current lab members](/people). In particular, [Alice Ball](people/2023-Alice-Ball), [Duygu Sevilgen](/people/2024-Duygu-Sevilgen) and [Nishant Chauhan](people/2024-Nishant-Chauhan) are all currently working on the physiological aspects of the project, and would be happy to discuss their experiences.
+
+## Logistical Details
+
+The post is funded for three years, and I need someone to start before the 1st January 2025. 
+
+<!-- **Applications for this position are now closed.** -->
+
+The deadline for applications is **midnight (UTC) on 25<sup>th</sup> July 2024**. We anticipate that interviews will be held in early August 2024.
+
+[Apply Here](https://www.jobs.cam.ac.uk/job/45856/){: .btn .btn--info}
