@@ -42,7 +42,7 @@ The biominerals that will be analysed by the project will be grown in laboratory
 
 Please [get in touch](mailto:ob266@cam.ac.uk) if you'd like to find out more about the project, or discuss your suitability for it.
 
-If you'd like to find out more about what it's like to work in the Department, and specifically with me, feel free to contact any of the [current lab members](/people). In particular, [Alice Ball](people/2023-Alice-Ball), [Duygu Sevilgen](/people/2024-Duygu-Sevilgen) and [Nishant Chauhan](people/2024-Nishant-Chauhan) are all currently working on the physiological aspects of the project, and would be happy to discuss their experiences.
+If you'd like to find out more about what it's like to work in the Department, and specifically with me, feel free to contact any of the [current lab members](/people). In particular, [Alice Ball](/people/2023-Alice-Ball), [Duygu Sevilgen](/people/2024-Duygu-Sevilgen) and [Nishant Chauhan](/people/2024-Nishant-Chauhan) are all currently working on the physiological aspects of the project, and would be happy to discuss their experiences.
 
 You can also find out more about being a PDRA in the University and Department in the Further Particulars document [here](https://www.jobs.cam.ac.uk/job/45856/file/Branson+-+PDRA+FPs_FINAL.pdf).
 
