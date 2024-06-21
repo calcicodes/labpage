@@ -2,7 +2,7 @@
 layout: single
 title:  "PostDoc Wanted!"
 excerpt: "Geochemistry of Marine Calcification Mechanisms"
-categories: job
+categories: job biomin
 toc: true
 toc_sticky: true
 header:
