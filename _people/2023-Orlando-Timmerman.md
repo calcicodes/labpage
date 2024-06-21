@@ -9,7 +9,7 @@ author: Orlando Timmerman
 author_profile: true
 header:
   teaser: assets/images/people/bio-Orlando-teaser.png
-excerpt: "Machine learning answering where reefs can survive: present and future."
+excerpt: "Machine learning to work out where reefs can survive."
 ---
 Coral reef systems are incredibly complex systems of animal-plant symbiosis on which millions of people rely for food, protection from coastal storms, and income from tourism. The corals which comprise them are rather fussy, only surviving within certain envelopes of environmental conditions including temperature, aragonite saturation (a metric related to ocean acidification), and salinity. Climate change is gradually changing all of these conditions on a global scale. Understanding how reef systems will respond to these changes is essential to working out how to preserve them for future generations.
 
