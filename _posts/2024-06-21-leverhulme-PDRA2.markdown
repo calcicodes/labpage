@@ -6,7 +6,7 @@ categories: job
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/posts/leverhulme-pdra1-teaser.png
+  teaser: /assets/images/posts/leverhulme-pdra2-teaser.png
 ---
 
 I am seeking a postdoctoral research associate (PDRA) to join the multidisciplinary project “[Building Shells: Towards a Mechanistic Understanding of Biomineralisation]({% post_url 2022-12-14-leverhulme-project %})” funded by the Leverhulme Trust.
