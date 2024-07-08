@@ -36,6 +36,10 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### Positions
 
+<div class="cvtag">2024–</div>
+
+- __Fellow__ Queens' College, University of Cambridge
+
 <div class="cvtag">2019–</div>
 
 - __Assistant Professor__ Department of Earth Sciences, University of Cambridge
