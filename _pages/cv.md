@@ -38,23 +38,23 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 <div class="cvtag">2024–</div>
 
-- __Fellow__ Queens' College, University of Cambridge
+- __Fellow__ [Queens' College, University of Cambridge](https://www.queens.cam.ac.uk/)
 
 <div class="cvtag">2019–</div>
 
-- __Assistant Professor__ Department of Earth Sciences, University of Cambridge
+- __Assistant Professor__ [Department of Earth Sciences, University of Cambridge](https://www.esc.cam.ac.uk/)
 
 <div class="cvtag">2016–19</div>
 
-- __Research Fellow__ Research School of Earth Sciences, Australian National University
+- __Research Fellow__ [Research School of Earth Sciences, Australian National University](https://earthsciences.anu.edu.au/)
 
 <div class="cvtag">2014–16</div>
 
-- __Postoctoral Researcher__ Earth and Planetary Sciences, University of California, Davis
+- __Postoctoral Researcher__ [Earth and Planetary Sciences, University of California, Davis](https://eps.ucdavis.edu/)
 
 <div class="cvtag">2014</div>
 
-- __POST Fellow__ Parliamentary Office of Science and Technology (3 months)
+- __POST Fellow__ [Parliamentary Office of Science and Technology (3 months)](https://post.parliament.uk/)
 
 ### Qualifications
 
