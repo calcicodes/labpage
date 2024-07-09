@@ -60,15 +60,15 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 <div class="cvtag">2010–14</div>
 
-- __Ph.D. Earth Sciences__ University of Cambridge
+- __Ph.D. Earth Sciences__ [University of Cambridge](https://www.esc.cam.ac.uk/)
 
 <div class="cvtag">2009–10</div>
 
-- __M.Sc. Oceanography__ National Oceanography Centre, Southampton
+- __M.Sc. Oceanography__ [National Oceanography Centre, Southampton](https://noc.ac.uk/)
 
 <div class="cvtag">2006–09</div>
 
-- __B.Sc. Biology__ University of Bristol
+- __B.Sc. Biology__ [University of Bristol](https://www.bristol.ac.uk/biology/)
 
 ## Funding
 
