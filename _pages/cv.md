@@ -199,20 +199,21 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 - The Mineralogical Society (UK)
 
-### Awards
+<!-- ### Awards
 
 <div class="cvtag">2010</div>
 
 - __John Raymont Memorial Prize__ (Top mark in M.Sc.)
-- __Richard Newitt Award__ (M.Sc. Research Prize)
+- __Richard Newitt Award__ (M.Sc. Research Prize) -->
 
 ## Supervision
 
 ### PostDoctoral Research Associates
 
-<div class="cvtag">2023–</div>
+<div class="cvtag">2024–</div>
 
-- __Duygu Sevilgen__ Micro-physioloy of marine calcifiers.
+- [__Duygu Sevilgen__](/people/2024-Duygu-Sevilgen/) Micro-physioloy of marine calcifiers.
+- [__Nishant Chauhan__](/people/2024-Nishant-Chauhan/) Transcriptomics of marine calcifiers.
 
 <div class="cvtag">2021–22</div>
 
@@ -286,7 +287,7 @@ _* denotes newly designed course material._
 
 <div class="cvtag">2022–</div>
 
-- *__Quantitative Environmental Sciences__: lectures on ocean carbon cycling and climate, and practicals building an ocean carbon model in Python [6 lectures, 4 practicals].
+- *[__Quantitative Environmental Sciences__](https://quantitative-environmental-science.github.io/Notes/intro.html): lectures on ocean carbon cycling and climate, and practicals building an ocean carbon model in Python [6 lectures, 4 practicals].
 
 #### 3rd Year
 
