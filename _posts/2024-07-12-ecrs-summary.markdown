@@ -14,10 +14,18 @@ I attended ECRS to fill in the coral-loving world on my work [*predicting where 
 While it’s quite the challenge, initial results look promising. In short, a fairly simple machine learning model is able to nicely recreate the distribution of reefs that it would expect to see, given only information about depth, and how warm, how salty, how fast-moving, how sunny (et cetera et cetera) the oceans off Australia have been over the last ~150 years. 
 
 <figure style="width: 100%" class="align-center">
-  <img src="/assets/images/posts/ecrs_summary/GBR_predicted.png" alt="Prediction ." style="width:49%">
-  <img src="/assets/images/posts/ecrs_summary/GBR_true.png" alt="A group photo of divers underwater." style="width:49%">
+  <img src="/assets/images/posts/ecrs_summary/GBR_predicted.png" alt="Prediction of reef distribtuion by machine learning model (similar to observed)." style="width:49%">
+  <img src="/assets/images/posts/ecrs_summary/GBR_true.png" alt="Observed present-day reef distribution (similar to predicted)." style="width:49%">
   <figcaption>
   <strong> Model prediction of Great Barrier Reef.</strong> Left: Model prediction of coral density based on historic environmental timeseries. Right: Observed geographical distribution of the present-day reef.
+  </figcaption>
+</figure>
+
+<figure style="width: 100%" class="align-center">
+  <img src="/assets/images/posts/ecrs_summary/zGBR_predicted.png" alt="Prediction of reef distribtuion by machine learning model (similar to observed)." style="width:49%">
+  <img src="/assets/images/posts/ecrs_summary/zGBR_true.png" alt="Observed present-day reef distribution (similar to predicted)." style="width:49%">
+  <figcaption>
+  <strong> Zooming in on the model prediction of Great Barrier Reef.</strong> Left: Model shies away from predicting the highest-density coral areas, and edges of coral patches. Right: Observed geographical distribution of the present-day reef.
   </figcaption>
 </figure>
 
