@@ -4,7 +4,7 @@ title:  "A Considerably Constructive Coral Conference: ECRS 2024"
 excerpt: "Presenting early-stage PhD work at Europe's largest coral conference"
 categories: conference
 toc: false
-
+author: Orlando Timmerman
 ---
 
 Eight trains, five countries, and a few days after leaving Cambridge I found myself in Naples, Italy, for the 2024 [European Coral Reef Symposium (ECRS)](https://ecrs2024.eu/). The European chapter of the international society, [ICRS](https://coralreefs.org/) (no prizes for guessing the acronym!), the ECRS pops up somewhere in Europe once every four years, offset by two years from ICRS. Considering timing within my PhD, location, and keynotes, it was clear that it’d be an experience to write home about.
