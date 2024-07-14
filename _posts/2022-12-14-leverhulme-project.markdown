@@ -48,4 +48,4 @@ I'll be looking for one PhD student and on PostDoc to start each year for the ne
 
 ### Current opportunities
 
-- [PostDoc position]({% post_url 2023-10-09-leverhulme-PDRA1 %}){: .btn .btn--info} (deadline 8th April 2023)
+- [PostDoc position]({% post_url 2024-06-21-leverhulme-PDRA2 %}){: .btn .btn--info} (deadline 25th July 2024)
