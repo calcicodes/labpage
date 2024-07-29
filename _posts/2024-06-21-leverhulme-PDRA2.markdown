@@ -12,7 +12,8 @@ header:
 I am seeking a postdoctoral research associate (PDRA) to join the multidisciplinary project “[Building Shells: Towards a Mechanistic Understanding of Biomineralisation]({% post_url 2022-12-14-leverhulme-project %})” funded by the Leverhulme Trust.
 
 **Application:**
-The deadline for applications is **midnight (UTC) on 25<sup>th</sup> July 2024**. See [below](#logistical-details) for more details.
+<!-- The deadline for applications is **midnight (UTC) on 25<sup>th</sup> July 2024**. See [below](#logistical-details) for more details. -->
+Applications for this position are now closed.
 {: .notice--warning}
 
 ## Project Scope
@@ -50,8 +51,8 @@ You can also find out more about being a PDRA in the University and Department i
 
 The post is funded for three years, and I need someone to start before the 1st January 2025.
 
-<!-- **Applications for this position are now closed.** -->
+**Applications for this position are now closed.**
 
-The deadline for applications is **midnight (UTC) on 25<sup>th</sup> July 2024**. We anticipate that interviews will be held in early August 2024.
+<!-- The deadline for applications is **midnight (UTC) on 25<sup>th</sup> July 2024**. We anticipate that interviews will be held in early August 2024. -->
 
-[Apply Here](https://www.jobs.cam.ac.uk/job/45856/){: .btn .btn--info}
+<!-- [Apply Here](https://www.jobs.cam.ac.uk/job/45856/){: .btn .btn--info} -->
