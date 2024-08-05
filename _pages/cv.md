@@ -3,7 +3,7 @@ layout: cv
 permalink: /oscar-branson/
 classes: wide
 author_profile: true
-updated: 8th July 2024
+updated: 5th August 2024
 ---
 
 # Oscar Branson: CV
