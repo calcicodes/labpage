@@ -46,6 +46,13 @@ The project will involve a team of three postdoctoral research associates and th
 
 I'll be looking for one PhD student and on PostDoc to start each year for the next three years. Watch this space for announcements, and please [get in touch!](mailto:{{ site.email }}) if you're interested!
 
-### Current opportunities
+### Upcoming opportunities
 
-- [PostDoc position]({% post_url 2024-06-21-leverhulme-PDRA2 %}){: .btn .btn--info} (deadline 25th July 2024)
+ - PostDoc position working on computational modelling of biomineral formation and geochemistry (deadline Spring 2025)
+ - PhD studentdhip working on computational modelling of biomineral formation and geochemistry (deadline Jan 2025)
+
+Get in touch if you're interested!
+
+<!-- ### Current opportunities -->
+
+<!-- - [PostDoc position]({% post_url 2024-06-21-leverhulme-PDRA2 %}){: .btn .btn--info} (deadline 25th July 2024) -->
