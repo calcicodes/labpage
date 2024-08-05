@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /CV/
+permalink: /oscar-branson/
 classes: wide
 author_profile: true
 updated: 8th July 2024
