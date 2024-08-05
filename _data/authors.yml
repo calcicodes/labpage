@@ -5,6 +5,7 @@ Madison East:
   bio: "PhD Student studying coral calcification in past and future oceans."
   location: "Cambridge, UK"
   avatar: "assets/images/people/bio-Madi-round.png"
+  home: "people/2020-East-Madison"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
@@ -18,6 +19,7 @@ Wei Ning Fang:
   bio: "PhD Student studying foraminiferal geochemistry and palaeoproxies."
   location: "Cambridge, UK"
   avatar: "assets/images/people/bio-Winnie-round.png"
+  home: "people/2020-Fang-Wei-Ning"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
@@ -28,6 +30,7 @@ Lara Jurkovic:
   bio: "Postdoc working on vaterite formation and geochemistry."
   location: "Pula, Croatia"
   avatar: "assets/images/people/bio-Lara-round.png"
+  home: "people/2021-Jurkovic-Lara"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
@@ -38,6 +41,7 @@ Orlando Timmerman:
   bio: "PhD student using machine learning to understand where corals like to live."
   location: "Cambridge, UK"
   avatar: "assets/images/people/bio-Orlando-round.png"
+  home: "people/2023-Orlando-Timmerman"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
@@ -51,6 +55,7 @@ Alice Ball:
   bio: "PhD Student working on the physiology of marine calcifiers."
   location: "Cambridge, UK"
   avatar: "assets/images/people/bio-Alice-round.png"
+  home: "people/2023-Alice-Ball"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
@@ -64,6 +69,7 @@ Robert Petrie:
   bio: "PhD student developing fibre optic sensors for ocean carbon chemistry."
   location: "Cambridge, UK"
   avatar: "assets/images/people/bio-Robert-round.png"
+  home: "people/2023-Robert-Petrie"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
@@ -74,6 +80,7 @@ Duygu Sevilgen:
   bio: "PostDoc using microelectrode sensors to study biomineralisation."
   location: Cambridge, UK
   avatar: "assets/images/people/bio-Duygu-round.png"
+  home: "people/2024-Duygu-Sevilgen"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
@@ -87,6 +94,7 @@ Nishant Chauhan:
   bio: "PostDoc using transcriptomics to study biomineralisation."
   location: Cambridge, UK
   avatar: "assets/images/people/bio-Nishant-round.png"
+  home: "people/2024-Nishant-Chauhan"
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
