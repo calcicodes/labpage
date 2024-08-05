@@ -32,5 +32,7 @@ gem "jekyll", "~> 4.3.0"
 # Following instructions to set up minimal-mistakes theme https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ 
 gem "minimal-mistakes-jekyll"
 
+gem "json"
+
 # missing gem
 gem "webrick", "~> 1.7"
