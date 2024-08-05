@@ -72,6 +72,11 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ## Funding
 
+<div class="cvtag">2024</div>
+
+- __NERC Pushing the Frontiers Grant__
+[£800k] _A novel proxy for past ocean carbon concentration_
+
 <div class="cvtag">2023</div>
 
 - __Isaac Newton Trust Research Grant__
