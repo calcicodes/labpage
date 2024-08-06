@@ -9,4 +9,4 @@ sort_by: title
 author_profile: true
 ---
 
-A non-exhaustive list of things we're working.
+A non-exhaustive list of things we're working on.
