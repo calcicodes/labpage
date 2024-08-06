@@ -33,7 +33,7 @@ The course wrapped up with group presentations covering various aspects of the f
 Of course, as a group we made sure to fill any spare hours away from the teaching! In Bermuda you’re never far from caves, cliffs, and ‘cukes’ (sea cucumbers), and we certainly made the most of it. Days were spent exploring caves (and meeting their inhabitants, not always intentionally), admiring the rock formations in the cliffs (sometimes while jumping off them), and chilling with the sea cucumbers, swimming with bioluminescent dinoflagellates, and snorkelling until we were breathing saltwater (and were 99% salt).
 
 <figure style="width: 100%" class="align-center">
-  <img src="/assets/images/posts/Jobsons_drone.jpeg" alt="Aerial image of whiteish-pink beaches, clear blue water, and grey rocky outcrops" style="width:100%">
+  <img src="/assets/images/posts/Jobsons_drone.jpeg" alt="Aerial image of whiteish-pink beaches, clear blue water, and grey rocky outcrops" style="width:60%">
   <figcaption>
   <strong> Making the most of Bermuda's beautiful coasts. </strong>
   </figcaption>
