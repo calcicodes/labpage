@@ -1,0 +1,52 @@
+---
+layout: single
+title:  "Corals, ‘cology and Cool Coasts: A Deep Dive into Coral Ecology at the Bermuda Institute of Ocean Science"
+excerpt: "Undertaking a summer course on Coral Reef Ecology"
+categories: workshop
+toc: false
+author: Alice Ball and Orlando Timmerman
+header:
+  teaser: /assets/images/posts/ecrs_summary/ecrs_teaser.png
+---
+
+The [Bermuda Institute of Ocean Science](https://bios.asu.edu/), known by those in a hurry as BIOS, is a marine science research institute with a long history of oceanography and marine biology. Home to one of the longest-running time series of biogeochemical measurements, BATS, BIOS tackles questions relating to how climate change will affect the world’s oceans and marine ecosystems.
+
+BIOS comprises a number of labs headed by principal investigators who advise various intakes of graduate students, postdocs, and interns throughout the year. The institute offers courses throughout the year to undergraduates, grad students, or anyone with keen interest in marine science. Naturally, we jumped at the opportunity to participate in ‘Coral Reef Ecology’, a three-week intensive field- and lecture-based course taught by [Dr. Eric Hochberg](https://bios.asu.edu/about/team-members/eric-hochberg/).
+
+<figure style="width: 100%" class="align-center">
+  <img src="/assets/images/posts/ecrs_summary/zGBR_predicted.png" alt="Prediction of reef distribtuion by machine learning model (similar to observed)." style="width:49%">
+  <img src="/assets/images/posts/ecrs_summary/zGBR_true.png" alt="Observed present-day reef distribution (similar to predicted)." style="width:49%">
+  <figcaption>
+  <strong> Zooming in on the model prediction of Great Barrier Reef.</strong> Left: Model shies away from predicting the highest-density coral areas, and edges of coral patches. Right: Observed geographical distribution of the present-day reef.
+  </figcaption>
+</figure>
+
+Following introductions to our fellow 15 students over drinks on BIOS’ sunny water-facing terrace, the next three weeks flew by in a blur of boat trips, classroom discussions, ex-situ measurements of coralgal community metabolism in a flume (a large bathtub for corals with a steady circular flow of water), and evening lectures. Each activity helped develop specific skills necessary for research into shallow benthic organisms. For example, daily trips by boat out to different reef sites allowed us to measure – and then debate! – the composition of Bermuda’s unique reef ecosystems while practising our scientific diving skills; the hands-on flume measurements gave insights into how a great deal of lab-based coral research is conducted; while lectures and discussions taught us the scientific and technical concepts underpinning it all.
+
+<figure style="width: 100%" class="align-center">
+  <img src="/assets/images/posts/ecrs_summary/zGBR_predicted.png" alt="Prediction of reef distribtuion by machine learning model (similar to observed)." style="width:49%">
+  <img src="/assets/images/posts/ecrs_summary/zGBR_true.png" alt="Observed present-day reef distribution (similar to predicted)." style="width:49%">
+  <figcaption>
+  <strong> Zooming in on the model prediction of Great Barrier Reef.</strong> Left: Model shies away from predicting the highest-density coral areas, and edges of coral patches. Right: Observed geographical distribution of the present-day reef.
+  </figcaption>
+</figure>
+
+
+A key takeaway from the course was the consideration of reefs as entire holistic systems, rather than considering individual coral organisms: as is commonly discussed in coral reef science and any ensuing conservation activities. Eric was quick to point out common (mis?)conceptions of reef science today. For example, he challenged the notion that coral reefs could be described “rainforests of the sea” since some high-productivity reefs may in fact comprise very low diversity of organisms; that coral reefs should even be referred to as ‘coral reefs’ at all given the often relatively low coral cover on geological formations which serve as reefs; and that the ‘health’ of a reef is useful concept, given that it is poorly defined – if defined at all – in the literature and often fails to capture the full picture of the ecosystem. 
+
+The course wrapped up with group presentations covering various aspects of the field and laboratory work we’d conducted. This ranged from a comparison of pros and cons of in-situ benthic survey methods (transects, quadrats, and photomosaics), benthic ecology and coral diversity across different reef areas, coral metabolism over a diel cycle from flume measurements, and respiration and photosynthesis of an in-situ community measured by a gradient flux.
+
+Of course, as a group we made sure to fill any spare hours away from the teaching! In Bermuda you’re never far from caves, cliffs, and ‘cukes’ (sea cucumbers), and we certainly made the most of it. Days were spent exploring caves (and meeting their inhabitants, not always intentionally), admiring the rock formations in the cliffs (sometimes while jumping off them), and chilling with the sea cucumbers, swimming with bioluminescent dinoflagellates, and snorkelling until we were breathing saltwater (and were 99% salt).
+
+<figure style="width: 100%" class="align-center">
+  <img src="/assets/images/posts/ecrs_summary/zGBR_predicted.png" alt="Prediction of reef distribtuion by machine learning model (similar to observed)." style="width:49%">
+  <img src="/assets/images/posts/ecrs_summary/zGBR_true.png" alt="Observed present-day reef distribution (similar to predicted)." style="width:49%">
+  <figcaption>
+  <strong> Zooming in on the model prediction of Great Barrier Reef.</strong> Left: Model shies away from predicting the highest-density coral areas, and edges of coral patches. Right: Observed geographical distribution of the present-day reef.
+  </figcaption>
+</figure>
+
+
+BIOS receives generous funding from the UK Associates of BIOS, a collection of corporate and personal donors. We’d like to thank the UK Associates for making our time on the Reef Ecology course. The opportunity to witness the day-to-day life of a major marine institute, to meet people from diverse walks of life sharing a common passion, and to challenge our perceptions of the function of reef ecosystems resulted in a truly unforgettable experience.
+
+
