@@ -1,0 +1,57 @@
+---
+layout: single
+---
+
+{% assign job_posts = site.posts | where_exp: "post", "post.categories contains 'job'" %}
+
+{% assign current_jobs = job_posts | where: "open", true %}
+{% assign past_jobs = job_posts | where: "open", false %}
+
+{{ page.content }}
+
+{% if current_jobs.size > 0 %}
+
+  <p> We're currently looking for 
+    {{ current_jobs.size }} 
+    {% if current_jobs.size == 1 %} person {% else %} people {% endif %} 
+    to join our team! 
+  </p>
+
+  <div class="feature__wrapper">
+  {% for post in current_jobs %}
+      {% include feature-single.html %}
+  {% endfor %}
+  </div>
+
+{% else %}
+
+  <p>
+    We're not looking for anyone specific at the moment, but we're always excited to hear from interested people!
+  </p>
+  <p>
+    If you're wondering if you'd be a good fit, you can take a look at <a href="{{ site.baseurl }}/news">what we're up to</a>, and see who's <a href="{{ site.baseurl }}/people">currently in the group</a>. Feel free to contact anyone if you have any questions!
+  </p>
+  <p>
+    The list of previous opportunities below also gives some examples of the types of jobs we've advertised in the past.
+  </p>
+  <p>
+    Please <a href="mailto:ob266@cam.ac.uk?subject=[labpage-enquiry]%20your-name-here">get in touch</a> if you'd like to discuss possibilities (e.g. fellowship applications, upcoming positions).
+  </p>
+
+{% endif %}
+
+<h1> Previous Opportunities </h1>
+
+<p>
+  These are some of the roles we've advertised in the past.
+</p>
+
+{% if past_jobs.size > 0 %}
+
+  <div class="feature__wrapper">
+  {% for post in past_jobs %}
+      {% include feature-single.html %}
+  {% endfor %}
+  </div>
+
+{% endif %}
