@@ -32,6 +32,8 @@ gem "jekyll", "~> 4.3.0"
 # Following instructions to set up minimal-mistakes theme https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ 
 gem "minimal-mistakes-jekyll"
 
+gem "google-protobuf", "~> 3.19.4"  # added to avoid compile errors on server.
+
 gem "json"
 
 # missing gem
