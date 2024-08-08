@@ -1,0 +1,5 @@
+<div class="feature__wrapper">
+  {% for post in site.posts limit:3 %}
+    {% include feature-single.html %}
+  {% endfor %}
+</div>
