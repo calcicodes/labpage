@@ -3,21 +3,26 @@ layout: single
 title:  "PhD Student Wanted!"
 excerpt: "Outside the comfort zone: physiological responses of marine calcifiers to extreme environmental conditions."
 categories: job biomin
+people_category: leverhulme
 toc: true
 toc_sticky: true
 header:
   teaser: /assets/images/posts/phd1-teaser.png
+open: false
 ---
 
 _**Outside the comfort zone: physiological responses of marine calcifiers to extreme environmental conditions.**_
 
 How does the physiology of marine calcifying organisms (corals, foraminifera and coccolithophores) change when exposed to extreme conditions in past, present and future oceans? What can these responses tell us about the mechanisms involved in producing their biomineral shells?
 
-**Applications for this studentship are now closed.**
+**Applications:**
+{% if page.open %}
+{: .notice--info}
+The deadline for applications is **{{ page.apply_deadline }}**. See [below](#logistical-details) for more details.
+{% else %}
 {: .notice--warning}
-
-<!-- **Application Deadline:** Midnight (UTC) 27<sup>th</sup> January 2023. See [below](#applications) for more details.
-{: .notice--warning} -->
+**Applications for this position are now closed.** Please see our [jobs page](/jobs) for other opportunities.
+{% endif %}
 
 ## Project Context
 

@@ -3,17 +3,24 @@ layout: single
 title:  "PostDoc Wanted!"
 excerpt: "Transcriptome of Marine Calcifiers"
 categories: job
+people_category: leverhulme
 toc: true
 toc_sticky: true
 header:
   teaser: /assets/images/posts/leverhulme-pdra1-teaser.png
+open: false
 ---
 
 I am seeking a postdoctoral researcher to join the multidisciplinary project “[Building Shells: Towards a Mechanistic Understanding of Biomineralisation]({% post_url 2022-12-14-leverhulme-project %})” funded by the Leverhulme Trust.
 
-**Application:** Applications for this position are now closed. 
-<!-- The deadline for applications is **midnight (UTC) on 30<sup>th</sup> November 2023**. See [below](#applications) for more details. -->
+**Applications:**
+{% if page.open %}
+{: .notice--info}
+The deadline for applications is **{{ page.apply_deadline }}**. See [below](#logistical-details) for more details.
+{% else %}
 {: .notice--warning}
+**Applications for this position are now closed.** Please see our [jobs page](/jobs) for other opportunities.
+{% endif %}
 
 ## Project Context
 
