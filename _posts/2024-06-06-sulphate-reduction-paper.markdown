@@ -2,7 +2,7 @@
 layout: single
 title:  "New Paper: holding coral reefs together"
 excerpt: "Sulphate reduction and carbonate precipitation in a high-energy algal ridge framework."
-categories: research paper
+categories: research paper global geochem
 chatgpt: true
 toc: false
 header:
