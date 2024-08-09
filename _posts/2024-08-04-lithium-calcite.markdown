@@ -2,7 +2,7 @@
 layout: single
 title:  "New Paper: Li in Calcite."
 excerpt: "Precipitation rate affects Li incorporation, but not isotopic fractionation."
-categories: research paper
+categories: research paper precip
 chatgpt: true
 toc: false
 header:
