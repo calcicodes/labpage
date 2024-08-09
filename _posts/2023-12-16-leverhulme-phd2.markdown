@@ -5,10 +5,10 @@ excerpt: "Outside the comfort zone: geochemical changes in marine calcifiers in 
 categories: job biomin
 toc: true
 toc_sticky: true
-people_involved:
-  - Alice Ball
+people_category: leverhulme
 header:
   teaser: /assets/images/posts/phd2-teaser.png
+open: false
 ---
 
 _**Outside the comfort zone: geochemical changes in marine calcifiers in response to extreme environmental conditions.**_
@@ -21,8 +21,14 @@ This project will use geochemical measurements of calcium carbonate biominerals 
  - how they will respond to future environmental conditions
  - how we interpret their geochemistry as an archive of past environmental conditions.
 
-**Application Deadline:** There are two different deadlines for this project: Applications from **International Students** must be received by 12:00 (noon, UTC) on the **4<sup>th</sup> January 2024** to be considered for funding. Applications from **Home Fees Students** must be received by 12:00 (noon, UTC) on the **19<sup>th</sup> January 2024**. See [below](#applications) for more details.
+**Applications:**
+{% if page.open %}
+{: .notice--info}
+The deadline for applications is **{{ page.apply_deadline }}**. See [below](#logistical-details) for more details.
+{% else %}
 {: .notice--warning}
+**Applications for this position are now closed.** Please see our [jobs page](/jobs) for other opportunities.
+{% endif %}
 
 ## Project Context
 
@@ -84,7 +90,9 @@ An **ideal applicant** will have a strong background in natural sciences (chemis
 
 If you'd like to find out more about what it's like to work here, please feel free to contact [anyone on the team]({{ site.base_url }}/people/) and ask us anything!
 
-### Application Instructions
+**Applications for this position are now closed.**
+
+<!-- ### Application Instructions
 Applications should be submitted via the [University of Cambridge Graduate Application Portal](https://apply.postgraduate.study.cam.ac.uk).
 
 General instructions for the application portal can be found [here](https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply), but a few specifics steps for applying to this project are:
@@ -103,7 +111,5 @@ Applications Deadlines:
 - **International Students** on 12:00 noon (UTC) on **4<sup>th</sup> January 2024**.
 - **UK/Home Fees Students** on 12:00 noon (UTC) on **19<sup>th</sup> January 2024**.
 
-Please [get in touch](mailto:ob266@cam.ac.uk) if you have any questions.
+Please [get in touch](mailto:ob266@cam.ac.uk) if you have any questions. -->
 
-
-{% include people_row%}

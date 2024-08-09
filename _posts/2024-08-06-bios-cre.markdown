@@ -44,5 +44,3 @@ Of course, as a group we made sure to fill any spare hours away from the teachin
 
 
 BIOS receives generous funding from the UK Associates of BIOS, a collection of corporate and personal donors. We’d like to thank the UK Associates for making our time on the Reef Ecology course. The opportunity to witness the day-to-day life of a major marine institute, to meet people from diverse walks of life sharing a common passion, and to challenge our perceptions of the function of reef ecosystems resulted in a truly unforgettable experience.
-
-{% include people_row%}

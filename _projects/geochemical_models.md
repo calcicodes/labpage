@@ -4,6 +4,7 @@ title:  "Geochemical Modelling"
 excerpt: Using the composition of carbonates to work out how they formed.
 categories: geochem
 people_category: geochem
+post_category: geochem
 author_profile: true
 header:
   image: assets/images/projects/geochem-splash.png
@@ -15,6 +16,3 @@ These models predict the trace element and isotopic composition of materials by 
 We can then determine the importance of each of these candidate processes using inversion techniques, such as Markov Chain Monte Carlo, to assess the ability of these models to predict experimental results.
 The resulting mechanistic understanding of mineral formation can then be used to predict and interpret geochemical patterns in natural systems.
 
-{% include people_row %}
-
-{% include updates_row %}

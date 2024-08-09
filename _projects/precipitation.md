@@ -4,6 +4,7 @@ title:  "CaCO<sub>3</sub> Precipitation"
 excerpt: The formation and geochemistry of calcium carbonate minerals.
 categories: precip
 people_category: precip
+post_category: precip
 author_profile: true
 header:
   image: assets/images/projects/precip-splash.png
@@ -14,6 +15,3 @@ We grow calcium carbonate minerals in controlled conditions to investigate the p
 We are particularly interested in the formation of intermediate metastable phases, such as amorphous calcium carbonate and vaterite, which are likely to play a role in the formation of most natural carbonates.
 We are trying to work out how the formation and transformation of these intermediate phases might alter the composition of the mature mineral, compared to if it formed directly from seawater.
 
-{% include people_row %}
-
-{% include updates_row %}
