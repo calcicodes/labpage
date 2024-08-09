@@ -57,5 +57,3 @@ Get in touch if you're interested!
 <!-- ### Current opportunities -->
 
 <!-- - [PostDoc position]({% post_url 2024-06-21-leverhulme-PDRA2 %}){: .btn .btn--info} (deadline 25th July 2024) -->
-
-{% include people_row %}
