@@ -2,7 +2,7 @@
 layout: single
 title:  "A Considerably Constructive Coral Conference: ECRS 2024"
 excerpt: "Presenting early-stage PhD work at Europe's largest coral conference"
-categories: conference
+categories: conference global
 toc: false
 author: Orlando Timmerman
 header:
