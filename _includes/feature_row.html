@@ -4,9 +4,22 @@
   {% assign feature_row = page.feature_row %}
 {% endif %}
 
+<!-- should we show the hiring banner? -->
+{% assign job_posts = site.posts | where_exp: "post", "post.categories contains 'job'" %}
+{% assign current_jobs = job_posts | where: "open", true %}
+
 <div class="feature__wrapper">
   {% for f in feature_row %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      
+      {% if f.title == "People" and current_jobs.size > 0 %}
+        <a href="/jobs">
+          <div class="hiring-banner">
+              We're hiring!!
+          </div>
+        </a>
+      {% endif %}
+
       <a href="{{ f.url | relative_url }}">
       <div class="archive__item">
         {% if f.image_path %}

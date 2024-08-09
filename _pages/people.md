@@ -8,6 +8,8 @@ author_profile: true
 
 Current and past lab members.
 
+Interested in joining us? Check out our [job opportunities](/jobs)!
+
 <!-- get lists of people -->
 {% assign current_list = site.people | where: "current", true %}
 {% assign alum_list = site.people | where: "current", false %}
