@@ -3,6 +3,7 @@ layout: single
 title:  "Research Leadership Award"
 excerpt: "Building Shells: Towards a Mechanistic Understanding of Biomineralisation"
 categories: research grant biomin geochem
+people_category: leverhulme
 toc: true
 toc_sticky: true
 header:
@@ -56,3 +57,5 @@ Get in touch if you're interested!
 <!-- ### Current opportunities -->
 
 <!-- - [PostDoc position]({% post_url 2024-06-21-leverhulme-PDRA2 %}){: .btn .btn--info} (deadline 25th July 2024) -->
+
+{% include people_row %}
