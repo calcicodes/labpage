@@ -108,3 +108,24 @@ search: false
     display: inline-block;
     margin-left: 1em;
 }
+
+// Hiring banner
+.feature__item {
+    overflow: hidden;
+}
+
+.hiring-banner{
+    position: absolute; /* Fixed position relative to the viewport */
+    top: 0; /* 20 pixels from the top */
+    right: 0; /* 20 pixels from the right */
+    inset: 20px 20px auto auto; /* top and right equal to 0 */
+    transform-origin: 0 0; /* OR top left */
+    transform: translate(29.3%) rotate(45deg);    
+    background: #08769b;
+    box-shadow: 0 0 0 5em #08769b;
+    clip-path: inset(0 -100%);
+    z-index: 10000; /* High z-index to ensure it's on top of other elements */
+    font-size: 1em;
+    font-weight: bold;
+    color:aliceblue;
+  }
