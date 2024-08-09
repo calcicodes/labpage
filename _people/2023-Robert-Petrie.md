@@ -2,7 +2,7 @@
 layout: person
 title:  "Robert Petrie"
 date:   2023-10-24
-categories: PhD student 
+categories: PhD student sensors
 current: true
 avatar: assets/images/people/bio-Robert-round.png
 author: Robert Petrie 

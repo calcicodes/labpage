@@ -2,7 +2,7 @@
 layout: person
 title:  Duygu S. Sevilgen
 date:   2024-01-05
-categories: PostDoc biomin physiology leverhulme
+categories: PostDoc biomin physiology leverhulme sensors
 current: true
 avatar: assets/images/people/bio-Duygu-round.png
 author: Duygu Sevilgen
