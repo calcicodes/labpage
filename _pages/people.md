@@ -6,8 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-Current and past lab members.
-
+{: .notice--info}
 Interested in joining us? Check out our [job opportunities](/jobs)!
 
 <!-- get lists of people -->
@@ -18,9 +17,9 @@ Interested in joining us? Check out our [job opportunities](/jobs)!
 {% assign phd_list = current_list | where_exp: "item", "item.categories contains 'PhD'" %}
 {% assign postdoc_list = current_list | where_exp: "item", "item.categories contains 'PostDoc'" %}
 
-
-
 <!-- make grids of people in different categories -->
+
+Current and past lab members.
 
 <!-- ### PostDocs -->
 
