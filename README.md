@@ -2,6 +2,18 @@
 
 ## Categories
 
+To list all people in a category, add `people_category: <category>` to the front matter of the category page, and include the following snippet in the body of the page:
+
+```markdown
+{% include people_row %}
+```
+
+To list all posts related to this category, add:
+
+```markdown
+{% include updates_row %}
+```
+
 ### Person Status
 
 Sets how they appear on the 'People' page.
@@ -26,3 +38,17 @@ If a person or post has this tag, they appear at the bottom of the related 'Proj
 
 - `leverhulme` - Funded by the Leverhulme Trust
 - `NERC` - Funded by NERC
+
+### Jobs
+
+- `job` - makes the post appear on the 'Jobs' page
+
+### Other categories with no specific function
+
+- `research`
+- `paper`
+- `conference`
+- `fieldwork`
+- `outreach`
+- `teaching`
+- `grant`
