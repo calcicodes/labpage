@@ -52,3 +52,6 @@ If a person or post has this tag, they appear at the bottom of the related 'Proj
 - `outreach`
 - `teaching`
 - `grant`
+- `physiology`
+- `machine-learning`
+- `coral`
