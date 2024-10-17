@@ -105,7 +105,7 @@ Nishant Chauhan:
 
 Pratyusha Madhnure:
   name: "Pratyusha Madhnure"
-  bio: "PhD student studing the geochemistry of biomineralisation."
+  bio: "PhD student studying the geochemistry of biomineralisation."
   location: "Cambridge, UK"
   avatar: "assets/images/people/bio-Pratyusha-round.png"
   home: "people/2024-Pratyusha-Madhnure"
@@ -116,9 +116,6 @@ Pratyusha Madhnure:
   - label: "Twitter"
     icon: "fab fa-fw fa-twitter-square"
     url: "https://twitter.com/pratyusha_mad"
-  - label: "ORCiD"
-    icon: "fab fa-fw fa-orcid"
-    url: "https://orcid.org/0000-0003-0453-0642"  
 
 # Evie:
 #   name: Evie
