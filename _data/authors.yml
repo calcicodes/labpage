@@ -49,6 +49,9 @@ Orlando Timmerman:
   - label: "Website" 
     icon: "fas fa-fw fa-link"
     url: https://orlando-code.github.io/
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/orlando-code"
 
 Alice Ball:
   name: "Alice Ball"
