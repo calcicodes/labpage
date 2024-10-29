@@ -1,13 +1,13 @@
 ---
 layout: single
 title:  "PostDoc Wanted!"
-excerpt: "Geochemistry of Marine Calcification Mechanisms"
+excerpt: "Modeling biomineralisation processes."
 categories: job
 people_category: leverhulme
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/posts/leverhulme-pdra2-teaser.png
+  teaser: /assets/images/posts/leverhulme-pdra3-teaser.png
 open: true
 # apply_url: https://www.jobs.cam.ac.uk/job/45856/
 apply_deadline: midnight (UTC) on 28<sup>st</sup> February 2025
