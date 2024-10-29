@@ -58,14 +58,12 @@ You can also find out more about being a PDRA in the University and Department i
 
 ## Logistical Details
 
-The post is funded for three years, and I need someone to start before the 1st January 2025.
+The post is funded for three years, and the candidate _must_ be able to start before 1st October 2025 to fit within funding constraints.
 
 {% if page.open %}
 
 {: .notice--info}
 The deadline for applications is **{{ page.apply_deadline }}**. We anticipate that interviews will be held in {{ page.interview_period }}.
-
-The candidate _must_ be able to start before 1st October 2025 to fit within funding constraints.
 
 Application link available soon.
 
