@@ -6,7 +6,7 @@ author_profile: true
 updated: 5th August 2024
 ---
 
-# Oscar Branson: CV
+# About Oscar — CV
 
 _Last updated {{ page.updated }}._
 
