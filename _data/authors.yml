@@ -63,6 +63,9 @@ Alice Ball:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:aab96@cam.ac.uk"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/ballabeta"
   # - label: "Twitter"
   #   icon: "fab fa-fw fa-twitter-square"
   #   url: "https://twitter.com/ballabetalice"
@@ -77,6 +80,9 @@ Robert Petrie:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:rdp43@cam.ac.uk"
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/Rob-Petrie"
 
 Duygu Sevilgen:
   name: "Duygu S. Sevilgen"
