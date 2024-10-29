@@ -27,7 +27,7 @@ The deadline for applications is **{{ page.apply_deadline }}**. See [below](#log
 
 ## Project Scope
 
-The successful candidate will work closely with the [PI](/CV) and a [PhD student]({% post_url 2024-10-29-leverhulme-phd3 %}) to construct a quantitative computational model of the biological, chemical and physical mechanisms of biomineralisation.
+The successful candidate will work closely with the [PI](/oscar-branson) and a [PhD student]({% post_url 2024-10-29-leverhulme-phd3 %}) to construct a quantitative computational model of the biological, chemical and physical mechanisms of biomineralisation.
 
 The model will be informed by physiological and geochemical measurements from samples grown under controlled conditions designed to reveal the underlying mechanisms of biomineralisation in marine calcifying organisms.
 
