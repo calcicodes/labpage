@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Sensor Development"
-excerpt: New ways to measer carbon in seawater
+excerpt: New ways to measure carbon in seawater
 categories: sensors calcification
 people_category: sensors
 post_category: sensors
