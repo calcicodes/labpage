@@ -113,7 +113,7 @@ author:
     #   url: "mailto:ob266@cam.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://https://biomin.esc.cam.ac.uk/"
+      url: "https://biomin.esc.cam.ac.uk/"
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/oscarbranson.bsky.social"
