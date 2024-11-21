@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "Research Leadership Award"
-excerpt: "Building Shells: Towards a Mechanistic Understanding of Biomineralisation"
+title:  "Building Shells"
+excerpt: "Towards a Mechanistic Understanding of Biomineralisation"
 categories: research grant biomin geochem
 people_category: leverhulme
 toc: true
@@ -18,7 +18,7 @@ We aim to create a mechanistic model of biomineralisation that we can use to bot
 This project will involve a cross-disciplinary team of three PostDocs and three PhD students over the next five years (2023-2028).
 We'll be growing calcifiers and tackling a diverse range of physiological (_respirometry, microsensors, confocal microscopy, transcriptomics_), geochemical (_trace elements, stable isotopes, laser ablation_) and computational (_mechanistic modelling, bayesian optimisation, Markov-chain Monte Carlo_) puzzles.
 
-**Does this sound exciting to you?** If you're interested in joining the team, please [get in touch!](mailto:{{ site.email }}), and check out the currently advertised [PostDoc position]({% post_url 2023-10-09-leverhulme-PDRA1 %}).
+**Does this sound exciting to you?** If you're interested in joining the team, please [get in touch!](mailto:{{ site.email }}), and check out the currently advertised [PDRA and PhD positions](/jobs)!
 {: .notice--info}
 
 ## Background
@@ -49,10 +49,10 @@ I'll be looking for one PhD student and on PostDoc to start each year for the ne
 
 ### Upcoming opportunities
 
- - PostDoc position working on computational modelling of biomineral formation and geochemistry (deadline Spring 2025)
- - PhD studentdhip working on computational modelling of biomineral formation and geochemistry (deadline Jan 2025)
+ - [PostDoc position working on computational modelling of biomineral formation and geochemistry]({% post_url 2024-10-29-leverhulme-PDRA3 %})
+ - [PhD studentdhip working on computational modelling of biomineral formation and geochemistry]({% post_url 2024-10-29-leverhulme-phd3 %})
 
-Get in touch if you're interested!
+[Get in touch](mailto:{{ site.email }}) if you're interested!
 
 <!-- ### Current opportunities -->
 
