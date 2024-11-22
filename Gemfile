@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.3.0"
+gem "jekyll"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -32,9 +32,9 @@ gem "jekyll", "~> 4.3.0"
 # Following instructions to set up minimal-mistakes theme https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ 
 gem "minimal-mistakes-jekyll"
 
-gem "google-protobuf", "~> 3.19.4"  # added to avoid compile errors on server.
+# gem "google-protobuf", "~> 3.19.4"  # added to avoid compile errors on server.
 
-gem "json"
+# gem "json"
 
 # missing gem
-gem "webrick", "~> 1.7"
+# gem "webrick", "~> 1.7"
