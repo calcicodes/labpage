@@ -5,7 +5,7 @@ papers:
 
 deploy:
 	git pull
-	source /home/ob266/.rvm/scripts/rvm && rvm use 3.3.0
+	. /home/ob266/.rvm/scripts/rvm && rvm use 3.3.0
 	JEKYLL_ENV=production bundle exec jekyll build --destination /var/www/biomin
 
 local:
