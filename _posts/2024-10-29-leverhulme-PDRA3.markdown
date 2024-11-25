@@ -48,6 +48,15 @@ I'm looking for someone who has (or is about to obtain) a PhD in the broad area 
 The project will involve integrating complex biological (transcriptome, proteome, physiology) and geochemical (trace element and isotopic ratios) data to derive a quantitative understanding of biomineralisation mechanisms.
 The design of the model must also be informed by the physical and chemical processes that underpin biomineralisation, and be constructed in context of extensive literature in this field.
 
+## Relevant Reading
+
+Some interesting models of biomineralisation processes:
+ - [Rayleigh fractionation in foraminifera.](https://doi.org/10.1016/0012-821X(96)00105-7)
+ - [Stable isotopes in calcite.](https://doi.org/10.1029/2021GC010200) (and [this](https://doi.org/10.1016/j.epsl.2014.07.036))
+ - [Stable isotopes in coral aragonite.](https://doi.org/10.1016/j.gca.2018.02.032)
+ - [Strontium in foraminifera.](https://doi.org/10.1038/s43247-023-01194-6)
+ - [Boron transport in cold-water corals.](https://doi.org/10.1016/j.epsl.2020.116662)
+
 ## How do I find out more?
 
 Please [get in touch](mailto:ob266@cam.ac.uk) if you'd like to find out more about the project, or discuss your suitability for it.
