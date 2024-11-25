@@ -51,11 +51,13 @@ The design of the model must also be informed by the physical and chemical proce
 ## Relevant Reading
 
 Some interesting models of biomineralisation processes:
- - [Rayleigh fractionation in foraminifera.](https://doi.org/10.1016/0012-821X(96)00105-7)
- - [Stable isotopes in calcite.](https://doi.org/10.1029/2021GC010200) (and [this](https://doi.org/10.1016/j.epsl.2014.07.036))
- - [Stable isotopes in coral aragonite.](https://doi.org/10.1016/j.gca.2018.02.032)
- - [Strontium in foraminifera.](https://doi.org/10.1038/s43247-023-01194-6)
- - [Boron transport in cold-water corals.](https://doi.org/10.1016/j.epsl.2020.116662)
+
+- [Rayleigh fractionation in foraminifera.](https://doi.org/10.1016/0012-821X(96)00105-7)
+- [Stable isotopes in calcite.](https://doi.org/10.1029/2021GC010200) (and [this](https://doi.org/10.1016/j.epsl.2014.07.036))
+- [Stable isotopes in coral aragonite.](https://doi.org/10.1016/j.gca.2018.02.032)
+- [Strontium in foraminifera.](https://doi.org/10.1038/s43247-023-01194-6)
+- [Boron transport in cold-water corals.](https://doi.org/10.1016/j.epsl.2020.116662)
+- [Stable isotopes in coccolithophores.](https://doi.org/10.1038/ncomms14511)
 
 ## How do I find out more?
 
