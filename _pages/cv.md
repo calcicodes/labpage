@@ -87,8 +87,8 @@ A major goal of my current research is to develop a quantitative mechanistic und
 <div class="cvtag">2022</div>
 
 - __Leverhulme Trust Research Leadership Award__
-[£1M] _Building Shells: Towards a Mechanistic Understanding of Biomineralisation_
-- __NERC Cross-disciplinary Research for Discovery Science__ 
+[£1M] [_Building Shells: Towards a Mechanistic Understanding of Biomineralisation_](https://www.flipsnack.com/leverhulmetrust/2022-annual-review/full-view.html?p=34)
+- __NERC Cross-disciplinary Research for Discovery Science__
 [£10k] _Exploring novel fibre optic sensors for measuring ocean carbon_
 
 <div class="cvtag">2020</div>
