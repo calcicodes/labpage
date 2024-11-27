@@ -41,7 +41,7 @@ A major goal of my current research is to develop a quantitative mechanistic und
 - __Associate Professor__ [Department of Earth Sciences, University of Cambridge](https://www.esc.cam.ac.uk/)
 - __Fellow__ [Queens' College, University of Cambridge](https://www.queens.cam.ac.uk/)
 
-<div class="cvtag">2019–</div>
+<div class="cvtag">2019–24</div>
 
 - __Assistant Professor__ [Department of Earth Sciences, University of Cambridge](https://www.esc.cam.ac.uk/)
 
