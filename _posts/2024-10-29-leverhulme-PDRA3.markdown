@@ -9,7 +9,7 @@ toc_sticky: true
 header:
   teaser: /assets/images/posts/leverhulme-pdra3-teaser.png
 open: true
-# apply_url: https://www.jobs.cam.ac.uk/job/45856/
+apply_url: https://www.jobs.cam.ac.uk/job/49661/
 apply_deadline: midnight (UTC) on 13<sup>th</sup> February 2025
 interview_period: March 2025 
 ---
@@ -76,9 +76,7 @@ The post is funded for three years, and the candidate _must_ be able to start be
 {: .notice--info}
 The deadline for applications is **{{ page.apply_deadline }}**. We anticipate that interviews will be held in {{ page.interview_period }}.
 
-Application link available soon.
-
-<!-- [Apply Here]({{ page.apply_url }}){: .btn .btn--info} -->
+[Apply Here]({{ page.apply_url }}){: .btn .btn--info}
 
 {% else %}
 
