@@ -1,5 +1,17 @@
 # Oscar's Lab Website
 
+# Image Sizes / Aspect Ratios
+
+## Teasers for grids
+
+1.85:1
+
+## Banner images
+
+1024:200
+
+# Site Structure
+
 ## Categories
 
 To list all people in a category, add `people_category: <category>` to the front matter of the page when using the `single` layout.
@@ -35,6 +47,12 @@ If a person or post has this tag, they appear at the bottom of the related 'Proj
 ### Jobs
 
 - `job` - makes the post appear on the 'Jobs' page
+
+### Organisms
+
+ - `foram`
+ - `coral`
+ - `coccolithophore`
 
 ### Other categories with no specific function
 
