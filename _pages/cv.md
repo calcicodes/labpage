@@ -216,6 +216,10 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### PostDoctoral Research Associates
 
+<div class="cvtag">2025–</div>
+
+- [__Wei-Ning Fang__](/people/2020-Fang-Wei-Ning/) Geochemical proxy development.
+
 <div class="cvtag">2024–</div>
 
 - [__Duygu Sevilgen__](/people/2024-Duygu-Sevilgen/) Micro-physioloy of marine calcifiers.
@@ -230,6 +234,10 @@ A major goal of my current research is to develop a quantitative mechanistic und
 - __Kate Holland (ANU)__ Foraminifera geochemistry.
 
 ### PhD Students
+
+<div class="cvtag">2024–</div>
+
+- [__Pratyusha Madhnure__](/people/2024-Pratyusha-Madhnure/) The geochemistry of marine calcifying organisms.
 
 <div class="cvtag">2023–</div>
 
