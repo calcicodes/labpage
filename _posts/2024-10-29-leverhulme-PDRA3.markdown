@@ -10,8 +10,8 @@ header:
   teaser: /assets/images/posts/leverhulme-pdra3-teaser.png
 open: true
 apply_url: https://www.jobs.cam.ac.uk/job/49661/
-apply_deadline: midnight (UTC) on 13<sup>th</sup> February 2025
-interview_period: March 2025 
+apply_deadline: midnight (UTC) on 26<sup>th</sup> May 2025
+interview_period: April 2025 
 ---
 
 I am seeking a postdoctoral research associate (PDRA) to join the multidisciplinary project “[Building Shells: Towards a Mechanistic Understanding of Biomineralisation]({% post_url 2022-12-14-leverhulme-project %})” funded by the Leverhulme Trust.
