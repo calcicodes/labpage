@@ -8,7 +8,7 @@ toc_sticky: true
 people_category: leverhulme
 header:
   teaser: /assets/images/posts/phd3-teaser.png
-open: true
+open: false
 apply_deadline: midnight (UTC) on 16<sup>th</sup> May 2025
 ---
 
