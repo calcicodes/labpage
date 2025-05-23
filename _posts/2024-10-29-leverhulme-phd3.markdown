@@ -9,7 +9,7 @@ people_category: leverhulme
 header:
   teaser: /assets/images/posts/phd3-teaser.png
 open: true
-apply_deadline: midnight (UTC) on 4<sup>th</sup> January 2025
+apply_deadline: midnight (UTC) on 16<sup>th</sup> May 2025
 ---
 
 _**Modeling biomineralisation processes**_
@@ -86,18 +86,8 @@ Applications should be submitted via the [University of Cambridge Graduate Appli
 
 General instructions for the application portal can be found [here](https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply), but a few specifics steps for applying to this project are:
 
-1. After logging in to the application portal, open the Course Directory.
-2. Type 'Earth Sciences' in the search box, and select the 'Earth Sciences PhD' course.
-3. This will take you to the course description page, where you should click the 'Apply Now' button.
-4. Choose a start date of 01-Oct-2024, and select 'Full-Time' study.
-5. Click 'Apply for this course', and complete the application form.
-6. In the 'Research' section select 'Yes' in reply to 'Do you have any research information to add?', then give the title of this project ('Outside the comfort zone: geochemical changes in marine calcifiers in response to extreme environmental conditions.') and my name ('Oscar Branson') as the supervisor. You do not need to put anything in the 'summary of proposed research' box, but please do list any experience you have that's relevant to the project in the 'Research Experience' box.
+1. In the 'Research' section of 'Course Application' select 'Yes' in reply to 'Do you have any research information to add?', then give the title of this project ('Modeling biomineralisation processes.') and my name ('Oscar Branson') as the supervisor. You do not need to put anything in the 'summary of proposed research' box, but please do list any experience you have that's relevant to the project in the 'Research Experience' box.
 
-[Apply Here](https://apply.postgraduate.study.cam.ac.uk){: .btn .btn--info}
-
-Applications Deadlines:
-
-- **International Students** on 12:00 noon (UTC) on **4<sup>th</sup> January 2024**.
-- **UK/Home Fees Students** on 12:00 noon (UTC) on **19<sup>th</sup> January 2024**.
+[Apply Here](https://www.postgraduate.study.cam.ac.uk/courses/directory/eaespdpea/apply){: .btn .btn--info}
 
 Please [get in touch](mailto:ob266@cam.ac.uk) if you have any questions.
