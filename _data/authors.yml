@@ -126,6 +126,17 @@ Pratyusha Madhnure:
   #   icon: "fab fa-fw fa-twitter-square"
   #   url: "https://twitter.com/pratyusha_mad"
 
+Satya Chanakya:
+  name: "Satya Chanakya"
+  bio: "PostDoc studying the geochemistry of biomineralisation."
+  location: "Cambridge, UK"
+  avatar: "assets/images/people/bio-Satya-round.png"
+  home: "people/2025-Satya-Chanakya"
+  links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:si392@cam.ac.uk"
+
 # Evie:
 #   name: Evie
 #   bio: "I am a cat."
