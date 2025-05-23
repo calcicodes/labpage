@@ -314,10 +314,12 @@ _* denotes newly designed course material._
 <div class="cvtag">2022–</div>
 
 - *__Earth Sciences__: section of _Environmental Geochemistry_ course on Ocean Acidification [4 lectures, 4 practicals].
+- *__Earth Sciences__: section of _Mineral-Water Interactions_ course on solute speciation and amorphous phases [2 lectures, 2 practicals].
+- *__Quantitative Climate and Environmental Sciences__: Environmental Data Analysis course - field and lab based course.
 
 ### AI4ER MRes
 
-<div class="cvtag">2020–</div>
+<div class="cvtag">2020–2024</div>
 
 - *__Environmental Risk__: Lectures and practical session on machine learning approaches to ocean-atmosphere CO<sub>2</sub> transfer.
 
