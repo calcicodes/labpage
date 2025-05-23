@@ -328,7 +328,7 @@ _* denotes newly designed course material._
 <div class="cvtag">2022–</div>
 
 - __Part 1A Earth Sciences__ Earth Sciences field trip to the Isle of Arran, Scotland, UK.
-- __Part IB Earth Sciences__ Environmental Geochemistry field trip to Aix-en-Provence, France.
+- *__Part IB Earth Sciences__ Environmental Geochemistry field trip to Aix-en-Provence, France.
 - __Part III Earth Sciences__ Earth Sciences field trip to Greece.
 
 <div class="cvtag">2021–22</div>
