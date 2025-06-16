@@ -1,4 +1,15 @@
 {
+  "2025_06_09": {
+    "authors": [
+      "Ross Whiteford",
+      "Oscar Branson",
+      "Dennis Mayk"
+    ],
+    "title": "Using Kgen to Generate Cross-Verified Apparent Equilibrium Constants (K∗’s) for Palaeoseawater Carbonate Chemistry",
+    "journal": "Geochemistry, Geophysics, Geosystems",
+    "doi": "10.1029/2023GC011417",
+    "url": "https://doi.org/10.1029/2023GC011417"
+  },
  "2025_04_01_1": {
     "authors": [
       "Oscar Branson",
@@ -24,6 +35,18 @@
     "journal": "Journal of Foraminiferal Research",
     "doi": "10.61551/gsjfr.54.4.312",
     "url": "https://doi.org/10.61551/gsjfr.54.4.312"
+  },
+  "2024_07_08_1": {
+    "authors": [
+      "Oscar Branson",
+      "Joji Uchikawa",
+      "Madeleine S Bohlin",
+      "Sambuddha Misra"
+    ],
+    "title": "Controls on Li partitioning and isotopic fractionation in inorganic calcite",
+    "journal": "Geochimica et Cosmochimica Acta",
+    "doi": "10.1016/j.gca.2024.07.001",
+    "url": "https://doi.org/10.1016/j.gca.2024.07.001"
   },
   "2018_01_01_1": {
     "authors": [
