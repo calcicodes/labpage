@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 header:
   teaser: /assets/images/posts/leverhulme-pdra3-teaser.png
-open: true
+open: false
 apply_url: https://www.jobs.cam.ac.uk/job/49661/
 apply_deadline: midnight (UTC) on 26<sup>th</sup> May 2025
 interview_period: April 2025 
