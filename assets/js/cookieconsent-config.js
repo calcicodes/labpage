@@ -32,7 +32,7 @@ CookieConsent.run({
                     acceptAllBtn: "Accept all",
                     acceptNecessaryBtn: "Reject all",
                     showPreferencesBtn: "Manage preferences",
-                    // footer: "<a href=\"#link\">Privacy Policy</a>\n<a href=\"#link\">Terms and conditions</a>"
+                    footer: "<a href=\"https://www.cam.ac.uk/about-this-site/privacy-policy\">Privacy Policy</a>\n<a href=\"https://blog.esc.cam.ac.uk/cookie-policy-uk/\">Terms and conditions</a>"
                 },
                 preferencesModal: {
                     title: "Consent Preferences Center",
