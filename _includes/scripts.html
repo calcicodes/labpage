@@ -1,0 +1,15 @@
+
+<!-- cookie consent -->
+<script type="module" src="{{ '/assets/js/cookieconsent-config.js' | relative_url }}"></script>
+
+{% if site.analytics.provider %}
+<script async type="text/plain" data-cookiecategory="analytics" src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}"></script>
+<script type="text/plain" data-cookiecategory="analytics">
+	  window['ga-disable-{{ site.analytics.google.tracking_id }}'] = window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1";
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){window.dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', '{{ site.analytics.google.tracking_id }}');
+</script>
+{% endif %}
