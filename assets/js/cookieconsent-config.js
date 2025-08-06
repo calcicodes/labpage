@@ -28,7 +28,7 @@ CookieConsent.run({
             en: {
                 consentModal: {
                     title: "Hello traveller, it's cookie time!",
-                    description: "We use vookies to help us understand who's visiting our site, and which pages they're looking at.",
+                    description: "We use cookies to help us understand who's visiting our site, and which pages they're looking at.",
                     acceptAllBtn: "Accept all",
                     acceptNecessaryBtn: "Reject all",
                     showPreferencesBtn: "Manage preferences",
