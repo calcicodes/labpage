@@ -122,6 +122,10 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 <!-- TODO: add links -->
 
+<div class="cvtag">2025</div>
+
+ - __[International Conference on Palaeoceanography (ICP15)](https://www.icp15.com/) Organising Committee__
+
 <div class="cvtag">2023</div>
 
 - __Goldschmidt Conference Session Convener__
@@ -219,6 +223,7 @@ A major goal of my current research is to develop a quantitative mechanistic und
 <div class="cvtag">2025–</div>
 
 - [__Wei-Ning Fang__](/people/2020-Fang-Wei-Ning/) Geochemical proxy development.
+- [__Satya Chanakya__](/people/2025-Satya-Chanaka/) Geochemical proxy development.
 
 <div class="cvtag">2024–</div>
 
@@ -289,6 +294,12 @@ _* denotes newly designed course material._
 - __Redesigned AI4ER MRes Core Courses__, 'Environmental Risk' and 'Environmental Data Analysis'.
 
 
+### Course Coordination
+
+<div class="cvtag">2024–25</div>
+
+- __Quantitative Environmental Sciences__ 2nd year course in the Natural Sciences degree.
+
 ### Natural Sciences (NatSci)
 
 #### 1st Year
@@ -311,9 +322,12 @@ _* denotes newly designed course material._
 
 #### 4th Year
 
-<div class="cvtag">2022–</div>
+<div class="cvtag">2022–24</div>
 
 - *__Earth Sciences__: section of _Environmental Geochemistry_ course on Ocean Acidification [4 lectures, 4 practicals].
+
+<div class="cvtag">2024–</div>
+
 - *__Earth Sciences__: section of _Mineral-Water Interactions_ course on solute speciation and amorphous phases [2 lectures, 2 practicals].
 - *__Quantitative Climate and Environmental Sciences__: Environmental Data Analysis course - field and lab based course.
 
@@ -329,6 +343,9 @@ _* denotes newly designed course material._
 
 - __Part 1A Earth Sciences__ Earth Sciences field trip to the Isle of Arran, Scotland, UK.
 - *__Part IB Earth Sciences__ Environmental Geochemistry field trip to Aix-en-Provence, France.
+
+<div class="cvtag">2022–23</div>
+
 - __Part III Earth Sciences__ Earth Sciences field trip to Greece.
 
 <div class="cvtag">2021–22</div>
