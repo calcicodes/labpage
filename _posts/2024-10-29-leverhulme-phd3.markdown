@@ -9,7 +9,7 @@ people_category: leverhulme
 header:
   teaser: /assets/images/posts/phd3-teaser.png
 open: true
-apply_deadline: This is an open post, that will be advertised until the position is filled.
+apply_deadline: This is an open post, that will be advertised until the position is filled
 ---
 
 _**Modeling biomineralisation processes**_
