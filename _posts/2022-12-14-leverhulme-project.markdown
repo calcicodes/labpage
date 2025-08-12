@@ -50,7 +50,7 @@ I'll be looking for one PhD student and on PostDoc to start each year for the ne
 ### Upcoming opportunities
 
  - [PostDoc position working on computational modelling of biomineral formation and geochemistry]({% post_url 2024-10-29-leverhulme-PDRA3 %})
- - [PhD studentdhip working on computational modelling of biomineral formation and geochemistry]({% post_url 2024-10-29-leverhulme-phd3 %})
+ - [PhD studentship working on computational modelling of biomineral formation and geochemistry]({% post_url 2025-08-01-leverhulme-phd3 %})
 
 [Get in touch](mailto:{{ site.email }}) if you're interested!
 
