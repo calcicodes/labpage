@@ -8,8 +8,8 @@ toc_sticky: true
 people_category: leverhulme
 header:
   teaser: /assets/images/posts/phd3-teaser.png
-open: false
-apply_deadline: midnight (UTC) on 16<sup>th</sup> May 2025
+open: true
+apply_deadline: This is an open post, that will be advertised until the position is filled.
 ---
 
 _**Modeling biomineralisation processes**_
@@ -83,6 +83,7 @@ If you'd like to find out more about what it's like to work here, please feel fr
 
 ### Application Instructions
 Applications should be submitted via the [University of Cambridge Graduate Application Portal](https://apply.postgraduate.study.cam.ac.uk).
+However, please [get in touch](mailto:ob266@cam.ac.uk) before applying, if you are interested!
 
 General instructions for the application portal can be found [here](https://www.postgraduate.study.cam.ac.uk/application-process/how-do-i-apply), but a few specifics steps for applying to this project are:
 
