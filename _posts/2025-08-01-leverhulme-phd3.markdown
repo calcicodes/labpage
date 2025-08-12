@@ -22,7 +22,7 @@ This model will encode chemical, physical and biological processes associated wi
 **Applications:**
 {% if page.open %}
 {: .notice--info}
-The deadline for applications is **{{ page.apply_deadline }}**. See [below](#logistical-details) for more details.
+This is an open post with no specific deadline, and will be advertised until the position is filled. See [below](#logistical-details) for more details.
 {% else %}
 {: .notice--warning}
 **Applications for this position are now closed.** Please see our [jobs page](/jobs) for other opportunities.
