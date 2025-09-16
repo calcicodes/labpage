@@ -111,8 +111,9 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### Leadership Roles
 
-<!-- <div class="cvtag">2022-25</div> -->
-<!-- - __International Conference on Palaeoceanography Organising Committee__ -->
+<div class="cvtag">2022-25</div>
+
+- __[International Conference on Palaeoceanography (ICP15)](https://www.icp15.com/) Organising Committee__
 
 <div class="cvtag">2020–2023</div>
 
@@ -124,7 +125,7 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 <div class="cvtag">2025</div>
 
- - __[International Conference on Palaeoceanography (ICP15)](https://www.icp15.com/) Organising Committee__
+- __[International Conference on Palaeoceanography (ICP15)](https://www.icp15.com/) Organising Committee__
 
 <div class="cvtag">2023</div>
 
