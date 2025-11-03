@@ -8,7 +8,7 @@ toc_sticky: true
 people_category: leverhulme
 header:
   teaser: /assets/images/posts/phd3-teaser.png
-open: true
+open: false
 apply_deadline: This is an open post, that will be advertised until the position is filled
 ---
 
