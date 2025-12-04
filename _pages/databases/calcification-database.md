@@ -3,6 +3,7 @@ title: "Global Database of Benthic Calcification Rates"
 layout: single
 permalink: /databases/calcification/
 classes: wide
+author: Orlando Timmerman
 author_profile: true
 ---
 
