@@ -38,20 +38,24 @@ Lara Jurkovic:
 
 Orlando Timmerman:
   name: "Orlando Timmerman"
-  bio: "PhD student using machine learning to understand where corals like to live."
+  bio: "PhD Researcher in Earth Sciences and Computer Sciences at the University of Cambridge."
   location: "Cambridge, UK"
   avatar: "assets/images/people/bio-Orlando-round.png"
   home: "people/2023-Orlando-Timmerman"
+  email: rt582@cam.ac.uk
   links:
-  - label: "Email"
-    icon: "fas fa-fw fa-envelope-square"
-    url: "mailto:rt582@cam.ac.uk"
-  - label: "Website" 
+  - label: "Website"
     icon: "fas fa-fw fa-link"
-    url: https://orlando-code.github.io/
+    url: "https://orlando-code.github.io/"
+  - label: "Bluesky"
+    icon: "fab fa-fw fa-bluesky"
+    url: "https://bsky.app/profile/orlandotimm.bsky.social"
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
     url: "https://github.com/orlando-code"
+  - label: "ORCiD"
+    icon: "fab fa-fw fa-orcid"
+    url: "https://orcid.org/0009-0008-6204-4689"
 
 Alice Ball:
   name: "Alice Ball"
