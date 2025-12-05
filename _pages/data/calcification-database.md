@@ -41,7 +41,7 @@ This database is open access and free to everyone to use for education and resea
 
 ## Sample Locations
 
-<div id="map" style="height: 500px; width: 100%; border-radius: 0.25rem; margin: 2rem 0;" data-map-url="{{ '/assets/databases/data/map_points.json' | relative_url }}"></div>
+<div id="map" style="height: 500px; width: 100%; border-radius: 0.25rem; margin: 2rem 0;" data-map-url="{{ '/assets/data/map_points.json' | relative_url }}"></div>
 
 ## Explore the Database
 
@@ -49,13 +49,13 @@ This database is open access and free to everyone to use for education and resea
   <div style="padding: 2rem; border: 1px solid #ddd; border-radius: 0.25rem; text-align: center;">
     <h3>View Data</h3>
     <p>Browse a static snapshot of the database. Full interactive features including sorting, filtering, and live updates coming soon.</p>
-    <a href="/databases/calcification/view/" class="btn btn--primary">View Database</a>
+    <a href="/data/calcification/view/" class="btn btn--primary">View Database</a>
   </div>
   
   <div style="padding: 2rem; border: 1px solid #ddd; border-radius: 0.25rem; text-align: center;">
     <h3>Contribute a Dataset</h3>
     <p>Download a CSV template and submit your data. Online submission form coming soon - for now, please email your completed CSV.</p>
-    <a href="/databases/calcification/contribute/" class="btn btn--primary">Contribute Dataset</a>
+    <a href="/data/calcification/contribute/" class="btn btn--primary">Contribute Dataset</a>
   </div>
 </div>
 

@@ -11,7 +11,7 @@ author_profile: true
 **Demo Mode:** This is a static snapshot of the database for demonstration purposes. Interactive features including column selection, sorting, filtering, and live updates will be available when the full system launches.
 
 <div style="text-align: right; margin-bottom: 1rem;">
-  <a href="{{ '/assets/databases/data/calcification_database_demo.csv' | relative_url }}" 
+  <a href="{{ '/assets/data/calcification_database_demo.csv' | relative_url }}" 
      class="btn btn--primary" 
      download="calcification_database_demo.csv">
     📥 Download Data
@@ -56,5 +56,5 @@ author_profile: true
 <div style="padding: 2rem; border: 1px solid #ddd; border-radius: 0.25rem; text-align: center;">
   <h3>Contribute a Dataset</h3>
   <p>Download a CSV template and submit your data. Online submission form coming soon - for now, please email your completed CSV.</p>
-  <a href="/databases/calcification/contribute/" class="btn btn--primary">Contribute Dataset</a>
+  <a href="/data/calcification/contribute/" class="btn btn--primary">Contribute Dataset</a>
 </div>

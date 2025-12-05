@@ -17,7 +17,7 @@ The online submission form is currently under development. For now, please downl
 Download a CSV template file for data submission. Fill it in with your data following the format shown in the example row within the file and the column descriptions below.
 
 <div style="margin: 2rem 0;">
-  <a href="{{ '/assets/databases/data/data_template.csv' | relative_url }}" 
+  <a href="{{ '/assets/data/data_template.csv' | relative_url }}" 
      class="btn btn--primary"
      download="data_template.csv">
     📥 Download Template
