@@ -7,9 +7,9 @@ main:
     url: /people/
   - title: Software
     url: /software/
+  - title: Data
+    url: /data/calcification/
   - title: Papers
     url: /papers/
-  - title: Databases
-    url: /databases/calcification/
   - title: About
     url: /oscar-branson/

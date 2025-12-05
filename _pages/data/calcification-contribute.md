@@ -1,7 +1,7 @@
 ---
-title: "Contribute Dataset"
+title: "Contribute Data"
 layout: single
-permalink: /databases/calcification/contribute/
+permalink: /data/calcification/contribute/
 classes: wide
 author: Orlando Timmerman
 author_profile: true

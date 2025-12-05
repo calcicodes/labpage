@@ -1,7 +1,7 @@
 ---
-title: "View Database"
+title: "View Data"
 layout: single
-permalink: /databases/calcification/view/
+permalink: /data/calcification/view/
 classes: wide
 author: Orlando Timmerman
 author_profile: true
