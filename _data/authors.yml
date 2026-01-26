@@ -150,7 +150,7 @@ Daniel Gaskell:
   links:
   - label: "Email"
     icon: "fas fa-fw fa-envelope-square"
-    url: "mailto:deg39@cam.ac.uk"
+    url: "mailto:deg39@cam.ac.uk" 
     
 # Evie:
 #   name: Evie
