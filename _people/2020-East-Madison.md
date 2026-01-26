@@ -2,7 +2,7 @@
 layout: person
 title:  "Madison East"
 date:   2020-10-01
-categories: PhD student geochem biomin
+categories: PhD Alumni student geochem biomin
 current: false
 avatar: assets/images/people/bio-Madi-round.png
 author: Madison East
