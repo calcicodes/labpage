@@ -141,6 +141,17 @@ Satya Chanakya:
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:si392@cam.ac.uk"
 
+Daniel Gaskell:
+  name: "Daniel E. Gaskell"
+  bio: "PostDoc modeling biomineralisation processes."
+  location: "Cambridge, UK"
+  avatar: "assets/images/people/bio-Daniel-round.png"
+  home: "people/2026-Daniel-Gaskell"
+  links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:deg39@cam.ac.uk"
+    
 # Evie:
 #   name: Evie
 #   bio: "I am a cat."
