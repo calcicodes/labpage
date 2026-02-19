@@ -3,13 +3,14 @@ import re
 import json
 import urllib.request
 import urllib.error
-from datetime import datetime
+from datetime import datetime, timezone
+from rich import progress
 
 # altmetric badge settings
-badge_min_cites = 15
+badge_min_cites = 10
 
 def mk_key(info):
-    pubdate = datetime.utcfromtimestamp(info['published_on'])
+    pubdate = datetime.fromtimestamp(info['published_on'], timezone.utc)
     return f'{pubdate.year}_{pubdate.month:02}_{pubdate.day:02}'
 
 def parse_journal(journal):
@@ -51,17 +52,48 @@ with open('assets/scripts/papers/citations/dois.dat', 'r') as f:
 with open('assets/scripts/papers/citations/students.dat', 'r') as f:
     students = f.read().splitlines()
 
-# altmetric API
-ref_url = 'https://api.altmetric.com/v1/doi/DOI'
+# CrossRef API
+ref_url = 'https://api.crossref.org/works/DOI'
 
 keys = []
 infos = {}
-hdr = {'User-Agent':'Mozilla/5.0'}
-for doi in dois:
+hdr = {'User-Agent': 'Mozilla/5.0'}
+for doi in progress.track(dois, description='Fetching paper metadata...'):
     try:
         req = urllib.request.Request(ref_url.replace('DOI', doi), headers=hdr)
         info = urllib.request.urlopen(req)
-        data = json.loads(info.read().decode())
+        # CrossRef returns data in 'message'
+        raw = json.loads(info.read().decode())['message']
+        
+        # Map CrossRef data to expected format
+        data = {}
+        data['doi'] = raw['DOI']
+        data['url'] = raw['URL']
+        data['title'] = raw['title'][0] if raw.get('title') else ''
+        if data['title'].isupper():
+            data['title'] = data['title'].title()
+        data['journal'] = raw['container-title'][0] if raw.get('container-title') else ''
+        
+        # Authors (CrossRef returns list of dicts)
+        data['authors'] = []
+        if 'author' in raw:
+            for a in raw['author']:
+                name = f"{a.get('given', '')} {a.get('family', '')}".strip()
+                if name:
+                    data['authors'].append(name)
+
+        # Date (prefer issued date, fallback to created timestamp)
+        if 'issued' in raw and 'date-parts' in raw['issued']:
+            parts = raw['issued']['date-parts'][0]
+            y = parts[0]
+            m = parts[1] if len(parts) > 1 else 1
+            d = parts[2] if len(parts) > 2 else 1
+            # Calculate timestamp manually to ensure UTC consistency
+            data['published_on'] = (datetime(y, m, d) - datetime(1970, 1, 1)).total_seconds()
+        elif 'created' in raw:
+            data['published_on'] = raw['created']['timestamp'] / 1000
+        else:
+            data['published_on'] = 0
         
         key = mk_key(data)
         if key in keys:
@@ -70,8 +102,31 @@ for doi in dois:
         
         infos[key] = data
 
-    except urllib.error.HTTPError:
-        print(f'Failed doi:{doi} (not found in altmetric database)')
+    except urllib.error.HTTPError as e:
+        print(f'Failed doi:{doi}')
+        raise e
+
+# # altmetric API
+# ref_url = 'https://api.altmetric.com/v1/doi/DOI'
+
+# keys = []
+# infos = {}
+# hdr = {'User-Agent':'Mozilla/5.0'}
+# for doi in dois:
+#     try:
+#         req = urllib.request.Request(ref_url.replace('DOI', doi), headers=hdr)
+#         info = urllib.request.urlopen(req)
+#         data = json.loads(info.read().decode())
+        
+#         key = mk_key(data)
+#         if key in keys:
+#             key += '_1'
+#         keys.append(key)
+        
+#         infos[key] = data
+
+#     except urllib.error.HTTPError:
+#         print(f'Failed doi:{doi} (not found in altmetric database)')
         
 # # save images
 # if not os.path.exists('./imgs'):
