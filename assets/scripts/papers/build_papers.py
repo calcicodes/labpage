@@ -104,7 +104,7 @@ for doi in progress.track(dois, description='Fetching paper metadata...'):
 
     except urllib.error.HTTPError as e:
         print(f'Failed doi:{doi}')
-        raise e
+        # raise e
 
 # # altmetric API
 # ref_url = 'https://api.altmetric.com/v1/doi/DOI'
