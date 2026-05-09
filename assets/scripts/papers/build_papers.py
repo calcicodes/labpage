@@ -18,7 +18,7 @@ def parse_journal(journal):
         return '<preprint>PREPRINT</preprint>'
     return "<em>" + journal + "</em>"
 
-def parse_authors(authorlist, students):
+def parse_authors(authorlist, groupnames):
     abrvmtch = re.compile('[A-Z]{1}')
 
     authors = ''
@@ -37,7 +37,7 @@ def parse_authors(authorlist, students):
 
         if last == 'Branson':
             authors += "<strong>" + last + ', ' + '. '.join(inits) + '.</strong>, '
-        elif last in students:
+        elif last in groupnames:
             authors += '<lab>' + last + ', ' + '. '.join(inits) + '.</lab>, '
         else:
             authors += last + ', ' + '. '.join(inits) + '., '
@@ -48,9 +48,9 @@ def parse_authors(authorlist, students):
 with open('assets/scripts/papers/citations/dois.dat', 'r') as f:
     dois = f.read().splitlines()
     
-# load students
-with open('assets/scripts/papers/citations/students.dat', 'r') as f:
-    students = f.read().splitlines()
+# load group members
+with open('assets/scripts/papers/citations/groupnames.dat', 'r') as f:
+    groupnames = f.read().splitlines()
 
 # CrossRef API
 ref_url = 'https://api.crossref.org/works/DOI'
@@ -178,7 +178,7 @@ for k in sorted(infos.keys(), reverse=True):
     i = infos[k]
     year = k[:4]
     url = i['url']
-    citation = parse_authors(i['authors'], students) + ' ' + i['title'] + '. ' + parse_journal(i['journal']) + "." + ' doi:' + i['doi']
+    citation = parse_authors(i['authors'], groupnames) + ' ' + i['title'] + '. ' + parse_journal(i['journal']) + "." + ' doi:' + i['doi']
     
     text = ''
 
