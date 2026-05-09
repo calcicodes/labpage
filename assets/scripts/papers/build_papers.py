@@ -170,7 +170,7 @@ textblock = """
 <div class="papers">
 <div id="supervised_label">
     <p>
-        Supervised students/postdocs in <lab>orange</lab>.
+        Lab Members in <lab>orange</lab>.
     </p>
 </div>
 """
