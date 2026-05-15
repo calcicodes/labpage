@@ -152,6 +152,17 @@ Daniel Gaskell:
     icon: "fas fa-fw fa-envelope-square"
     url: "mailto:deg39@cam.ac.uk" 
     
+Sophie Elam:
+  name: "Sophie Elam"
+  bio: "PhD Student modeling biomineralisation processes."
+  location: "Cambridge, UK"
+  avatar: "assets/images/people/bio-Sophie-round.png"
+  home: "people/2026-Sophie-Elam"
+  links:
+  - label: "Email"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:sae49@cam.ac.uk"
+
 # Evie:
 #   name: Evie
 #   bio: "I am a cat."
