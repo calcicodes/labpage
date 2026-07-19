@@ -73,6 +73,11 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ## Funding
 
+<div class="cvtag">2026</div>
+
+- __NERC Pushing the Frontiers Grant__
+[£950k] _What makes a coral reef? Microscopic insights into coral skeletal formation and resilience._
+
 <div class="cvtag">2024</div>
 
 - __NERC Pushing the Frontiers Grant__
@@ -111,17 +116,22 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### Leadership Roles
 
-<div class="cvtag">2022-25</div>
+<div class="cvtag">2022–25</div>
 
 - __[International Conference on Palaeoceanography (ICP15)](https://www.icp15.com/) Organising Committee__
 
-<div class="cvtag">2020–2023</div>
+<div class="cvtag">2020–23</div>
 
-- __Co-Director of Artificial Intelligence for Environmental Risk (AI4ER) Doctoral Training Programme__ & Director of AI4ER MRes Programme
+- __Co-Director of Artificial Intelligence for Environmental Risk (AI4ER) Centre for Doctoral Training__
+- __Director of AI4ER MRes Programme__
 
 ### Community Engagement
 
 <!-- TODO: add links -->
+
+<div class="cvtag">2026–</div>
+
+- __[NERC Peer Review College](https://www.ukri.org/councils/nerc/guidance-for-reviewers/peer-review-college)__
 
 <div class="cvtag">2025</div>
 
@@ -137,7 +147,7 @@ A major goal of my current research is to develop a quantitative mechanistic und
 - __International Working Group on Reef Calcification Budgets__
 - __Goldschmidt Conference Session Convener__
 
-<div class="cvtag">2021–</div>
+<div class="cvtag">2021</div>
 
 - __International Working Group on Palaeo-CO2 Reconstructions__
 - __Goldschmidt Conference Session Convener__
@@ -166,7 +176,7 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### Service Roles
 
-<div class="cvtag">2020–2023</div>
+<div class="cvtag">2020–23</div>
 
 - __Department Seminar Convener__, Earth Sciences, Cambridge
 
@@ -334,7 +344,7 @@ _* denotes newly designed course material._
 
 ### AI4ER MRes
 
-<div class="cvtag">2020–2024</div>
+<div class="cvtag">2020–24</div>
 
 - *__Environmental Risk__: Lectures and practical session on machine learning approaches to ocean-atmosphere CO<sub>2</sub> transfer.
 
