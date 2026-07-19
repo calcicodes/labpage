@@ -76,12 +76,12 @@ A major goal of my current research is to develop a quantitative mechanistic und
 <div class="cvtag">2026</div>
 
 - __NERC Pushing the Frontiers Grant__
-[£950k] _What makes a coral reef? Microscopic insights into coral skeletal formation and resilience._
+[£950k] _What makes a coral reef? Microscopic insights into coral skeletal formation and resilience_ (with [Dr Duygu Sevilgen](https://biomin.esc.cam.ac.uk/people/2024-Duygu-Sevilgen/)).
 
 <div class="cvtag">2024</div>
 
 - __NERC Pushing the Frontiers Grant__
-[£800k] _A novel proxy for past ocean carbon concentration_
+[£800k] _A novel proxy for past ocean carbon concentration_ (with [Prof James Rae](https://www.st-andrews.ac.uk/earth-sciences/people/jwbr/) and [Prof Ed Tipper](https://www.esc.cam.ac.uk/people/edward-tipper)).
 
 <div class="cvtag">2023</div>
 
