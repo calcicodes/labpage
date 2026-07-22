@@ -129,10 +129,6 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 <!-- TODO: add links -->
 
-<div class="cvtag">2026–</div>
-
-- __[NERC Peer Review College](https://www.ukri.org/councils/nerc/guidance-for-reviewers/peer-review-college)__
-
 <div class="cvtag">2025</div>
 
 - __[International Conference on Palaeoceanography (ICP15)](https://www.icp15.com/) Organising Committee__
@@ -175,6 +171,10 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 
 ### Service Roles
+
+<div class="cvtag">2026–</div>
+
+- __[NERC Peer Review College](https://www.ukri.org/councils/nerc/guidance-for-reviewers/peer-review-college)__
 
 <div class="cvtag">2020–23</div>
 
