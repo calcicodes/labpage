@@ -75,6 +75,9 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 <div class="cvtag">2026</div>
 
+- __Frontier R&D Grant__
+[$750k] _OAE-mix: Quantifying secondary precipitation and sampling strategies in the near-field mixing zone._[https://frontierclimate.com/writing/innovation-grants-2026] (with [Prof John Taylor](https://www.damtp.cam.ac.uk/user/jrt51/), [Dr. Adam Subhas](https://subhaslab.whoi.edu/) and [Prof. Tom Peacock](https://meche.mit.edu/people/faculty/tomp@mit.edu)).
+
 - __NERC Pushing the Frontiers Grant__
 [£950k] _What makes a coral reef? Microscopic insights into coral skeletal formation and resilience_ (with [Dr Duygu Sevilgen](https://biomin.esc.cam.ac.uk/people/2024-Duygu-Sevilgen/)).
 
