@@ -276,9 +276,12 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 - [__Anthea Arns__](https://scholar.google.com/citations?user=JkPhnY4AAAAJ&hl=de&inst=6810896796868835251) Crystallography of foraminifera.
 
-<div class="cvtag">2020–</div>
+<div class="cvtag">2020–25</div>
 
 - [__Madison East__](/people/2020-East-Madison/) Coral calcification mechanisms and geochemistry.
+
+<div class="cvtag">2020–24</div>
+
 - [__Wei-Ning (Winnie) Fang__](/people/2020-Fang-Wei-Ning/) Foraminiferal micro-evironments and goechemistry.
 
 <div class="cvtag">2016–18</div>
