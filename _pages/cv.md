@@ -272,6 +272,10 @@ A major goal of my current research is to develop a quantitative mechanistic und
 - [__Robert Petrie__](/people/2023-Robert-Petrie/) Fibre optics for ocean carbon measurement.
 - [__Orlando Timmerman__](/people/2023-Orlando-Timmerman/) Machine learning and coral reef survival.
 
+<div class="cvtag">2023–26</div>
+
+- [__Anthea Arns__](https://scholar.google.com/citations?user=JkPhnY4AAAAJ&hl=de&inst=6810896796868835251) Crystallography of foraminifera.
+
 <div class="cvtag">2020–</div>
 
 - [__Madison East__](/people/2020-East-Madison/) Coral calcification mechanisms and geochemistry.
