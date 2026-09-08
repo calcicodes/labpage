@@ -234,6 +234,10 @@ A major goal of my current research is to develop a quantitative mechanistic und
 
 ### PostDoctoral Research Associates
 
+<div class="cvtag">2026–</div>
+
+- [__Daniel Gaskell__](/people/2026-Daniel-Gaskell/) Modeling biomineralisation processes.
+
 <div class="cvtag">2025–</div>
 
 - [__Wei-Ning Fang__](/people/2020-Fang-Wei-Ning/) Geochemical proxy development.
@@ -253,6 +257,10 @@ A major goal of my current research is to develop a quantitative mechanistic und
 - __Kate Holland (ANU)__ Foraminifera geochemistry.
 
 ### PhD Students
+
+<div class="cvtag">2026–</div>
+
+- [__Sophie Elam__](/people/2026-Sophie-Elam/) Modeling biomineralisation processes.
 
 <div class="cvtag">2024–</div>
 
