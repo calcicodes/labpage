@@ -8,7 +8,7 @@ toc_sticky: true
 people_category: frontier
 header:
   teaser: /assets/images/posts/frontiers-locness-teaser.png
-open: true
+open: false
 apply_url: https://www.jobs.cam.ac.uk/job/57150/
 apply_deadline: 19 October 2026
 ---
